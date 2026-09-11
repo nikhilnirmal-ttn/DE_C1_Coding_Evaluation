@@ -1,0 +1,1007 @@
+customer_id,customer_name,email,country,signup_date,customer_segment,lifetime_value
+CUST0001,Aarav Garcia,aarav.garcia0001@example.com,United States,2023-07-18,Premium,1936.13
+CUST0002,Priya Garcia,priya.garcia0002@example.com,United Kingdom,2025-04-24,Standard,318.56
+CUST0003,James Smith,james.smith0003@example.com,Germany,2023-04-22,Basic,5137.06
+CUST0004,Sofia Costa,sofia.costa0004@example.com,Germany,2025-08-23,Basic,4654.76
+CUST0005,Wei Rossi,wei.rossi0005@example.com,Japan,2025-04-21,Standard,6889.69
+CUST0006,Amara Sharma,amara.sharma0006@example.com,India,2025-11-30,Standard,2925.12
+CUST0007,Noah Chen,noah.chen0007@example.com,Germany,2023-11-21,Premium,833.70
+CUST0008,Elena Garcia,elena.garcia0008@example.com,Australia,2023-12-06,Basic,2285.20
+CUST0009,Omar Patel,omar.patel0009@example.com,Japan,2025-01-03,Premium,8272.83
+CUST0010,Mia Brown,mia.brown0010@example.com,United Kingdom,2025-02-04,Standard,7058.47
+CUST0011,Lucas Nguyen,lucas.nguyen0011@example.com,Australia,2025-03-28,Premium,6003.63
+CUST0012,Hana Patel,hana.patel0012@example.com,Germany,2023-08-16,Premium,7277.43
+CUST0013,Ethan Garcia,ethan.garcia0013@example.com,France,2023-07-24,Standard,5421.53
+CUST0014,Zara Tanaka,zara.tanaka0014@example.com,India,2024-01-29,Standard,1820.33
+CUST0015,Leo Hassan,leo.hassan0015@example.com,United Kingdom,2025-06-01,Basic,1496.12
+CUST0016,Anika Rossi,anika.rossi0016@example.com,India,2024-08-04,Standard,2331.06
+CUST0017,Kenji Costa,kenji.costa0017@example.com,Germany,2025-11-03,Standard,7172.10
+CUST0018,Isla Patel,isla.patel0018@example.com,Germany,2022-03-07,Standard,3439.84
+CUST0019,Rahul Smith,rahul.smith0019@example.com,Germany,2025-03-07,Basic,2709.03
+CUST0020,Chloe Dubois,chloe.dubois0020@example.com,France,2025-08-09,Standard,1257.26
+CUST0021,Aarav Chen,aarav.chen0021@example.com,Germany,2025-02-23,Basic,2270.17
+CUST0022,Priya Singh,priya.singh0022@example.com,France,2025-04-10,Standard,3108.87
+CUST0023,James Chen,james.chen0023@example.com,Japan,2022-07-06,Premium,7326.32
+CUST0024,Sofia Chen,sofia.chen0024@example.com,India,2025-10-25,Standard,5089.66
+CUST0025,Wei Brown,wei.brown0025@example.com,France,2025-05-05,Standard,4521.02
+CUST0026,Amara Costa,amara.costa0026@example.com,United States,2025-10-25,Basic,1017.96
+CUST0027,Noah Costa,noah.costa0027@example.com,Canada,2025-08-05,Standard,992.62
+CUST0028,Elena Khan,elena.khan0028@example.com,India,2024-07-18,Premium,8109.74
+CUST0029,Omar Hassan,omar.hassan0029@example.com,India,2024-11-05,Premium,7405.88
+CUST0030,Mia Kim,mia.kim0030@example.com,Germany,2022-11-10,Standard,6493.22
+CUST0031,Lucas Costa,lucas.costa0031@example.com,United States,2025-05-11,Standard,4178.72
+CUST0032,Hana Garcia,hana.garcia0032@example.com,Australia,2023-09-22,Premium,539.47
+CUST0033,Ethan Singh,ethan.singh0033@example.com,United Kingdom,2022-06-25,Basic,4156.62
+CUST0034,Zara Smith,zara.smith0034@example.com,India,2022-09-20,Basic,4066.14
+CUST0035,Leo Costa,leo.costa0035@example.com,India,2023-06-27,Basic,7422.06
+CUST0036,Anika Khan,anika.khan0036@example.com,Germany,2025-01-09,Basic,5879.38
+CUST0037,Kenji Kim,kenji.kim0037@example.com,France,2025-10-07,Basic,3205.40
+CUST0038,Isla Andersen,isla.andersen0038@example.com,Japan,2022-09-05,Premium,1948.69
+CUST0039,Rahul Silva,rahul.silva0039@example.com,United States,2025-04-19,Basic,1994.47
+CUST0040,Chloe Rossi,chloe.rossi0040@example.com,United States,2022-05-26,Basic,5382.82
+CUST0041,Aarav Rossi,aarav.rossi0041@example.com,United Kingdom,2022-03-06,Standard,648.74
+CUST0042,Priya Rossi,priya.rossi0042@example.com,Canada,2025-10-02,Standard,1860.30
+CUST0043,James Chen,james.chen0043@example.com,Japan,2023-05-13,Standard,6873.35
+CUST0044,Sofia Johnson,sofia.johnson0044@example.com,United Kingdom,2022-07-18,Basic,3692.38
+CUST0045,Wei Khan,wei.khan0045@example.com,France,2024-08-14,Basic,507.75
+CUST0046,Amara Garcia,amara.garcia0046@example.com,United States,2024-04-04,Basic,2917.11
+CUST0047,Noah Garcia,noah.garcia0047@example.com,Germany,2023-01-28,Premium,4581.61
+CUST0048,Elena Chen,elena.chen0048@example.com,France,2023-01-11,Standard,3959.21
+CUST0049,Omar Smith,omar.smith0049@example.com,Japan,2025-02-01,Premium,477.47
+CUST0050,Mia Costa,mia.costa0050@example.com,United States,2022-07-11,Premium,1455.33
+CUST0051,Lucas Dubois,lucas.dubois0051@example.com,Japan,2023-03-14,Standard,7675.64
+CUST0052,Hana Nkosi,hana.nkosi0052@example.com,France,2022-01-05,Standard,2290.97
+CUST0053,Ethan Muller,ethan.muller0053@example.com,Canada,2024-05-16,Basic,8139.33
+CUST0054,Zara Costa,zara.costa0054@example.com,Japan,2022-11-14,Premium,2557.18
+CUST0055,Leo Patel,leo.patel0055@example.com,United States,2023-10-05,Premium,473.70
+CUST0056,Anika Dubois,anika.dubois0056@example.com,India,2022-04-27,Basic,726.94
+CUST0057,Kenji Nkosi,kenji.nkosi0057@example.com,United Kingdom,2025-05-03,Premium,5755.55
+CUST0058,Isla Rossi,isla.rossi0058@example.com,France,2022-09-03,Basic,2130.52
+CUST0059,Rahul Nguyen,rahul.nguyen0059@example.com,United States,2025-06-22,Premium,3592.45
+CUST0060,Chloe Singh,chloe.singh0060@example.com,Australia,2023-06-19,Premium,5709.18
+CUST0061,Aarav Silva,aarav.silva0061@example.com,Germany,2023-06-28,Standard,1155.92
+CUST0062,Priya Kim,priya.kim0062@example.com,Japan,2023-10-10,Premium,128.72
+CUST0063,James Nguyen,james.nguyen0063@example.com,United Kingdom,2022-05-31,Basic,1851.15
+CUST0064,Sofia Hassan,sofia.hassan0064@example.com,India,2023-12-16,Premium,7479.83
+CUST0065,Wei Tanaka,wei.tanaka0065@example.com,Canada,2022-11-20,Standard,7095.14
+CUST0066,Amara Kim,amara.kim0066@example.com,United States,2025-09-29,Basic,2579.75
+CUST0067,Noah Garcia,noah.garcia0067@example.com,India,2023-06-26,Premium,7568.07
+CUST0068,Elena Costa,elena.costa0068@example.com,India,2023-07-12,Standard,5160.81
+CUST0069,Omar Silva,omar.silva0069@example.com,Germany,2025-11-08,Basic,7257.11
+CUST0070,Mia Andersen,mia.andersen0070@example.com,Japan,2023-05-30,Premium,829.92
+CUST0071,Lucas Khan,lucas.khan0071@example.com,Canada,2022-04-01,Premium,2868.55
+CUST0072,Hana Chen,hana.chen0072@example.com,Canada,2022-11-27,Basic,3783.51
+CUST0073,Ethan Khan,ethan.khan0073@example.com,United States,2022-08-18,Premium,8035.68
+CUST0074,Zara Chen,zara.chen0074@example.com,United States,2024-01-27,Basic,4718.84
+CUST0075,Leo Khan,leo.khan0075@example.com,India,2022-03-27,Standard,3131.31
+CUST0076,Anika Patel,anika.patel0076@example.com,Australia,2023-03-07,Basic,2158.53
+CUST0077,Kenji Garcia,kenji.garcia0077@example.com,Australia,2025-02-20,Standard,8278.92
+CUST0078,Isla Chen,isla.chen0078@example.com,Germany,2022-11-29,Premium,7497.97
+CUST0079,Rahul Sharma,rahul.sharma0079@example.com,India,2023-11-12,Standard,6828.89
+CUST0080,Chloe Rossi,chloe.rossi0080@example.com,Canada,2022-11-23,Basic,963.41
+CUST0081,Aarav Patel,aarav.patel0081@example.com,Japan,2023-04-01,Premium,6950.16
+CUST0082,Priya Muller,priya.muller0082@example.com,Australia,2023-09-18,Premium,1933.70
+CUST0083,James Johnson,james.johnson0083@example.com,France,2023-11-04,Standard,7353.78
+CUST0084,Sofia Hassan,sofia.hassan0084@example.com,Australia,2025-08-06,Basic,3427.28
+CUST0085,Wei Costa,wei.costa0085@example.com,Australia,2022-02-26,Premium,7460.97
+CUST0086,Amara Hassan,amara.hassan0086@example.com,India,2025-04-04,Standard,373.27
+CUST0087,Noah Nguyen,noah.nguyen0087@example.com,France,2023-12-09,Basic,6695.32
+CUST0088,Elena Khan,elena.khan0088@example.com,United Kingdom,2024-02-28,Basic,1656.17
+CUST0089,Omar Patel,omar.patel0089@example.com,France,2022-01-04,Basic,7871.11
+CUST0090,Mia Costa,mia.costa0090@example.com,Germany,2024-01-16,Standard,641.28
+CUST0091,Lucas Silva,lucas.silva0091@example.com,Australia,2025-09-20,Premium,6131.92
+CUST0092,Hana Kim,hana.kim0092@example.com,Canada,2025-09-27,Standard,2806.25
+CUST0093,Ethan Kim,ethan.kim0093@example.com,India,2023-01-28,Standard,5668.65
+CUST0094,Zara Brown,zara.brown0094@example.com,India,2025-06-14,Basic,2593.03
+CUST0095,Leo Costa,leo.costa0095@example.com,United States,2023-09-15,Standard,1826.04
+CUST0096,Anika Singh,anika.singh0096@example.com,Australia,2024-08-10,Standard,3786.25
+CUST0097,Kenji Johnson,kenji.johnson0097@example.com,Japan,2022-12-14,Basic,766.52
+CUST0098,Isla Andersen,isla.andersen0098@example.com,Australia,2022-07-11,Premium,5735.12
+CUST0099,Rahul Rossi,rahul.rossi0099@example.com,Germany,2022-10-29,Premium,440.51
+CUST0100,Chloe Dubois,chloe.dubois0100@example.com,United Kingdom,2024-07-21,Standard,7537.86
+CUST0101,Aarav Singh,aarav.singh0101@example.com,Germany,2025-11-27,Standard,4227.49
+CUST0102,Priya Rossi,priya.rossi0102@example.com,India,2025-09-05,Basic,96.85
+CUST0103,James Garcia,james.garcia0103@example.com,France,2023-03-25,Premium,6844.73
+CUST0104,Sofia Andersen,sofia.andersen0104@example.com,Japan,2022-04-13,Basic,2155.73
+CUST0105,Wei Garcia,wei.garcia0105@example.com,Japan,2022-10-01,Standard,5691.03
+CUST0106,Amara Costa,amara.costa0106@example.com,Australia,2024-06-25,Basic,6936.80
+CUST0107,Noah Andersen,noah.andersen0107@example.com,France,2025-01-27,Standard,7631.41
+CUST0108,Elena Dubois,elena.dubois0108@example.com,Japan,2023-06-15,Premium,7146.84
+CUST0109,Omar Hassan,omar.hassan0109@example.com,Japan,2025-07-07,Premium,2370.35
+CUST0110,Mia Smith,mia.smith0110@example.com,Canada,2023-04-26,Standard,2887.91
+CUST0111,Lucas Costa,lucas.costa0111@example.com,United Kingdom,2022-10-11,Premium,2004.16
+CUST0112,Hana Chen,hana.chen0112@example.com,Germany,2022-05-12,Standard,3494.21
+CUST0113,Ethan Costa,ethan.costa0113@example.com,Japan,2024-05-01,Premium,1797.75
+CUST0114,Zara Khan,zara.khan0114@example.com,France,2025-04-11,Basic,215.05
+CUST0115,Leo Singh,leo.singh0115@example.com,France,2024-09-03,Premium,8016.17
+CUST0116,Anika Kim,anika.kim0116@example.com,France,2024-05-08,Basic,6366.51
+CUST0117,Kenji Costa,kenji.costa0117@example.com,Germany,2024-09-26,Premium,2356.30
+CUST0118,Isla Dubois,isla.dubois0118@example.com,United States,2024-03-07,Standard,5701.98
+CUST0119,Rahul Brown,rahul.brown0119@example.com,India,2024-08-15,Premium,8337.10
+CUST0120,Chloe Costa,chloe.costa0120@example.com,United States,2024-03-17,Basic,4819.11
+CUST0121,Aarav Sharma,aarav.sharma0121@example.com,United Kingdom,2025-08-09,Standard,1196.66
+CUST0122,Priya Muller,priya.muller0122@example.com,India,2022-04-13,Standard,3253.43
+CUST0123,James Johnson,james.johnson0123@example.com,Japan,2023-11-01,Standard,6482.39
+CUST0124,Sofia Brown,sofia.brown0124@example.com,Canada,2024-05-13,Standard,7105.00
+CUST0125,Wei Dubois,wei.dubois0125@example.com,United States,2025-01-09,Premium,8499.22
+CUST0126,Amara Tanaka,amara.tanaka0126@example.com,Germany,2025-08-24,Premium,6651.42
+CUST0127,Noah Patel,noah.patel0127@example.com,United States,2023-05-22,Premium,7141.48
+CUST0128,Elena Nguyen,elena.nguyen0128@example.com,India,2023-05-04,Premium,4051.59
+CUST0129,Omar Garcia,omar.garcia0129@example.com,Germany,2024-08-10,Basic,2215.26
+CUST0130,Mia Tanaka,mia.tanaka0130@example.com,India,2025-05-25,Basic,8193.56
+CUST0131,Lucas Garcia,lucas.garcia0131@example.com,India,2023-09-30,Premium,4939.89
+CUST0132,Hana Kim,hana.kim0132@example.com,France,2024-03-23,Basic,1725.89
+CUST0133,Ethan Singh,ethan.singh0133@example.com,Germany,2022-07-28,Basic,6577.46
+CUST0134,Zara Nguyen,zara.nguyen0134@example.com,United Kingdom,2025-03-05,Premium,2983.87
+CUST0135,Leo Khan,leo.khan0135@example.com,Australia,2022-05-22,Basic,5521.74
+CUST0136,Anika Sharma,anika.sharma0136@example.com,France,2024-09-30,Premium,3713.27
+CUST0137,Kenji Tanaka,kenji.tanaka0137@example.com,Japan,2025-12-19,Premium,3729.87
+CUST0138,Isla Andersen,isla.andersen0138@example.com,Canada,2025-06-15,Basic,6595.72
+CUST0139,Rahul Muller,rahul.muller0139@example.com,France,2025-04-28,Standard,2773.47
+CUST0140,Chloe Rossi,chloe.rossi0140@example.com,United Kingdom,2023-07-26,Standard,2110.65
+CUST0141,Aarav Muller,aarav.muller0141@example.com,France,2023-11-20,Premium,4226.89
+CUST0142,Priya Silva,priya.silva0142@example.com,India,2024-09-25,Premium,3048.27
+CUST0143,James Hassan,james.hassan0143@example.com,Australia,2023-07-27,Basic,5975.00
+CUST0144,Sofia Hassan,sofia.hassan0144@example.com,United States,2024-11-24,Premium,773.43
+CUST0145,Wei Khan,wei.khan0145@example.com,Japan,2025-02-11,Premium,5885.65
+CUST0146,Amara Dubois,amara.dubois0146@example.com,Japan,2022-02-05,Premium,2536.29
+CUST0147,Noah Brown,noah.brown0147@example.com,Germany,2023-09-20,Basic,4964.14
+CUST0148,Elena Dubois,elena.dubois0148@example.com,Australia,2024-05-21,Basic,4700.78
+CUST0149,Omar Tanaka,omar.tanaka0149@example.com,Japan,2023-07-09,Standard,2174.36
+CUST0150,Mia Garcia,mia.garcia0150@example.com,Germany,2023-10-09,Premium,6327.34
+CUST0151,Lucas Nkosi,lucas.nkosi0151@example.com,Germany,2023-03-20,Basic,4141.48
+CUST0152,Hana Singh,hana.singh0152@example.com,Canada,2022-07-25,Premium,2553.28
+CUST0153,Ethan Tanaka,ethan.tanaka0153@example.com,India,2023-09-12,Premium,6032.76
+CUST0154,Zara Chen,zara.chen0154@example.com,Canada,2022-04-04,Premium,4725.88
+CUST0155,Leo Chen,leo.chen0155@example.com,Japan,2022-07-30,Premium,4900.84
+CUST0156,Anika Dubois,anika.dubois0156@example.com,Japan,2024-06-21,Standard,1607.87
+CUST0157,Kenji Patel,kenji.patel0157@example.com,Canada,2024-09-05,Premium,6996.88
+CUST0158,Isla Brown,isla.brown0158@example.com,Japan,2022-06-01,Basic,5368.82
+CUST0159,Rahul Patel,rahul.patel0159@example.com,India,2022-11-02,Basic,8070.11
+CUST0160,Chloe Smith,chloe.smith0160@example.com,Germany,2022-08-31,Basic,6509.55
+CUST0161,Aarav Nguyen,aarav.nguyen0161@example.com,Germany,2024-12-06,Standard,3856.85
+CUST0162,Priya Muller,priya.muller0162@example.com,Canada,2025-04-20,Standard,2630.46
+CUST0163,James Nguyen,james.nguyen0163@example.com,United States,2025-06-02,Basic,888.52
+CUST0164,Sofia Johnson,sofia.johnson0164@example.com,Germany,2023-06-26,Basic,736.03
+CUST0165,Wei Rossi,wei.rossi0165@example.com,India,2025-02-04,Premium,1372.70
+CUST0166,Amara Khan,amara.khan0166@example.com,Japan,2025-11-12,Basic,4020.76
+CUST0167,Noah Patel,noah.patel0167@example.com,Germany,2023-08-14,Basic,2438.97
+CUST0168,Elena Muller,elena.muller0168@example.com,United Kingdom,2025-11-08,Premium,7857.05
+CUST0169,Omar Singh,omar.singh0169@example.com,Germany,2024-05-20,Premium,4651.55
+CUST0170,Mia Chen,mia.chen0170@example.com,Canada,2022-10-19,Premium,553.94
+CUST0171,Lucas Kim,lucas.kim0171@example.com,Canada,2024-06-18,Premium,4010.50
+CUST0172,Hana Kim,hana.kim0172@example.com,France,2023-07-12,Basic,4612.84
+CUST0173,Ethan Muller,ethan.muller0173@example.com,United Kingdom,2025-05-09,Premium,7565.62
+CUST0174,Zara Silva,zara.silva0174@example.com,Canada,2022-02-22,Premium,1984.41
+CUST0175,Leo Singh,leo.singh0175@example.com,United States,2025-10-08,Standard,4919.29
+CUST0176,Anika Nkosi,anika.nkosi0176@example.com,Japan,2024-11-28,Basic,3786.84
+CUST0177,Kenji Hassan,kenji.hassan0177@example.com,India,2025-04-13,Standard,5413.93
+CUST0178,Isla Dubois,isla.dubois0178@example.com,United Kingdom,2024-08-20,Standard,3500.54
+CUST0179,Rahul Silva,rahul.silva0179@example.com,United Kingdom,2022-11-26,Standard,3528.40
+CUST0180,Chloe Dubois,chloe.dubois0180@example.com,Canada,2025-09-18,Standard,6924.63
+CUST0181,Aarav Costa,aarav.costa0181@example.com,United States,2024-07-20,Premium,2707.67
+CUST0182,Priya Silva,priya.silva0182@example.com,United Kingdom,2024-04-07,Basic,7020.63
+CUST0183,James Sharma,james.sharma0183@example.com,Japan,2024-04-26,Premium,1635.07
+CUST0184,Sofia Tanaka,sofia.tanaka0184@example.com,Japan,2025-07-04,Standard,6471.92
+CUST0185,Wei Johnson,wei.johnson0185@example.com,Canada,2025-01-29,Premium,7888.83
+CUST0186,Amara Muller,amara.muller0186@example.com,Japan,2022-09-06,Premium,8273.09
+CUST0187,Noah Nguyen,noah.nguyen0187@example.com,Germany,2025-12-24,Premium,2675.84
+CUST0188,Elena Sharma,elena.sharma0188@example.com,France,2022-07-10,Premium,8434.57
+CUST0189,Omar Garcia,omar.garcia0189@example.com,Japan,2022-08-29,Basic,7081.61
+CUST0190,Mia Dubois,mia.dubois0190@example.com,Canada,2024-11-08,Basic,2360.44
+CUST0191,Lucas Dubois,lucas.dubois0191@example.com,Japan,2023-05-15,Standard,4708.19
+CUST0192,Hana Brown,hana.brown0192@example.com,Germany,2025-05-12,Basic,6356.17
+CUST0193,Ethan Chen,ethan.chen0193@example.com,United Kingdom,2023-07-20,Standard,2921.95
+CUST0194,Zara Andersen,zara.andersen0194@example.com,Canada,2022-01-06,Standard,6185.13
+CUST0195,Leo Singh,leo.singh0195@example.com,Japan,2022-11-01,Standard,4601.01
+CUST0196,Anika Tanaka,anika.tanaka0196@example.com,Australia,2025-02-04,Basic,3237.42
+CUST0197,Kenji Silva,kenji.silva0197@example.com,Germany,2025-11-29,Premium,4881.69
+CUST0198,Isla Rossi,isla.rossi0198@example.com,France,2022-03-31,Standard,6342.76
+CUST0199,Rahul Brown,rahul.brown0199@example.com,France,2025-09-21,Basic,8337.91
+CUST0200,Chloe Dubois,chloe.dubois0200@example.com,United States,2022-09-16,Basic,8207.24
+CUST0201,Aarav Silva,aarav.silva0201@example.com,United Kingdom,2024-06-20,Premium,4494.29
+CUST0202,Priya Muller,priya.muller0202@example.com,United States,2022-10-23,Standard,7409.38
+CUST0203,James Chen,james.chen0203@example.com,United Kingdom,2024-08-19,Standard,2910.84
+CUST0204,Sofia Brown,sofia.brown0204@example.com,United Kingdom,2023-11-04,Basic,7311.44
+CUST0205,Wei Brown,wei.brown0205@example.com,Australia,2025-07-07,Basic,7548.86
+CUST0206,Amara Dubois,amara.dubois0206@example.com,United States,2025-06-18,Premium,2033.81
+CUST0207,Noah Kim,noah.kim0207@example.com,Germany,2022-07-05,Standard,8316.95
+CUST0208,Elena Garcia,elena.garcia0208@example.com,Japan,2022-12-07,Basic,2580.49
+CUST0209,Omar Sharma,omar.sharma0209@example.com,United States,2023-10-27,Premium,2528.96
+CUST0210,Mia Tanaka,mia.tanaka0210@example.com,France,2022-10-26,Premium,4538.36
+CUST0211,Lucas Singh,lucas.singh0211@example.com,India,2022-12-15,Premium,717.28
+CUST0212,Hana Brown,hana.brown0212@example.com,Germany,2024-10-16,Basic,1259.34
+CUST0213,Ethan Muller,ethan.muller0213@example.com,Canada,2024-07-30,Standard,5684.80
+CUST0214,Zara Muller,zara.muller0214@example.com,Canada,2025-10-19,Basic,1384.89
+CUST0215,Leo Muller,leo.muller0215@example.com,Australia,2025-04-18,Standard,5449.03
+CUST0216,Anika Khan,anika.khan0216@example.com,Canada,2024-07-24,Standard,1733.38
+CUST0217,Kenji Brown,kenji.brown0217@example.com,Japan,2022-08-07,Premium,3272.53
+CUST0218,Isla Tanaka,isla.tanaka0218@example.com,Canada,2025-12-03,Standard,235.39
+CUST0219,Rahul Brown,rahul.brown0219@example.com,Canada,2022-01-17,Basic,7359.82
+CUST0220,Chloe Patel,chloe.patel0220@example.com,Japan,2023-08-10,Premium,5179.70
+CUST0221,Aarav Tanaka,aarav.tanaka0221@example.com,Germany,2025-07-27,Premium,5296.53
+CUST0222,Priya Chen,priya.chen0222@example.com,United Kingdom,2025-07-09,Basic,383.12
+CUST0223,James Muller,james.muller0223@example.com,United States,2025-04-01,Standard,6238.44
+CUST0224,Sofia Smith,sofia.smith0224@example.com,Canada,2023-11-01,Basic,3561.00
+CUST0225,Wei Johnson,wei.johnson0225@example.com,India,2025-01-09,Standard,4535.70
+CUST0226,Amara Hassan,amara.hassan0226@example.com,India,2023-06-11,Standard,8224.40
+CUST0227,Noah Kim,noah.kim0227@example.com,Australia,2022-08-24,Standard,8186.45
+CUST0228,Elena Chen,elena.chen0228@example.com,Germany,2025-10-17,Basic,5748.73
+CUST0229,Omar Brown,omar.brown0229@example.com,Australia,2022-07-04,Standard,167.61
+CUST0230,Mia Costa,mia.costa0230@example.com,United Kingdom,2024-07-20,Standard,5735.40
+CUST0231,Lucas Hassan,lucas.hassan0231@example.com,France,2025-07-31,Standard,965.52
+CUST0232,Hana Rossi,hana.rossi0232@example.com,Japan,2022-02-21,Basic,7521.78
+CUST0233,Ethan Costa,ethan.costa0233@example.com,Australia,2025-06-03,Premium,5522.66
+CUST0234,Zara Muller,zara.muller0234@example.com,Canada,2025-08-22,Standard,1035.91
+CUST0235,Leo Patel,leo.patel0235@example.com,United States,2023-09-16,Standard,1031.22
+CUST0236,Anika Rossi,anika.rossi0236@example.com,India,2024-03-06,Standard,3185.05
+CUST0237,Kenji Costa,kenji.costa0237@example.com,France,2025-04-17,Basic,6189.76
+CUST0238,Isla Khan,isla.khan0238@example.com,United Kingdom,2024-09-29,Basic,3498.58
+CUST0239,Rahul Hassan,rahul.hassan0239@example.com,United States,2025-11-14,Standard,1885.93
+CUST0240,Chloe Muller,chloe.muller0240@example.com,Germany,2024-01-13,Premium,8338.84
+CUST0241,Aarav Tanaka,aarav.tanaka0241@example.com,Australia,2022-05-05,Standard,2381.20
+CUST0242,Priya Garcia,priya.garcia0242@example.com,Japan,2022-07-07,Basic,1842.29
+CUST0243,James Nguyen,james.nguyen0243@example.com,United States,2022-04-14,Standard,2108.16
+CUST0244,Sofia Chen,sofia.chen0244@example.com,Germany,2022-05-21,Basic,1800.48
+CUST0245,Wei Johnson,wei.johnson0245@example.com,Germany,2023-11-04,Premium,6714.04
+CUST0246,Amara Nguyen,amara.nguyen0246@example.com,United States,2023-07-22,Premium,8394.61
+CUST0247,Noah Costa,noah.costa0247@example.com,Canada,2022-12-24,Premium,5635.94
+CUST0248,Elena Sharma,elena.sharma0248@example.com,India,2022-01-31,Standard,6725.37
+CUST0249,Omar Rossi,omar.rossi0249@example.com,Australia,2022-02-02,Premium,2292.36
+CUST0250,Mia Chen,mia.chen0250@example.com,France,2024-12-13,Premium,6350.87
+CUST0251,Lucas Dubois,lucas.dubois0251@example.com,Japan,2024-01-12,Basic,5066.48
+CUST0252,Hana Muller,hana.muller0252@example.com,Germany,2025-06-13,Premium,6195.20
+CUST0253,Ethan Andersen,ethan.andersen0253@example.com,Canada,2024-07-27,Basic,8196.02
+CUST0254,Zara Patel,zara.patel0254@example.com,Japan,2024-04-02,Standard,5847.52
+CUST0255,Leo Dubois,leo.dubois0255@example.com,Japan,2022-05-31,Premium,2771.84
+CUST0256,Anika Chen,anika.chen0256@example.com,United Kingdom,2022-09-16,Standard,5325.48
+CUST0257,Kenji Singh,kenji.singh0257@example.com,Australia,2024-02-20,Basic,4533.21
+CUST0258,Isla Muller,isla.muller0258@example.com,France,2022-07-23,Basic,1016.80
+CUST0259,Rahul Costa,rahul.costa0259@example.com,Germany,2024-05-30,Standard,7554.37
+CUST0260,Chloe Khan,chloe.khan0260@example.com,Australia,2024-07-17,Standard,3565.11
+CUST0261,Aarav Garcia,aarav.garcia0261@example.com,Australia,2024-05-24,Standard,5670.16
+CUST0262,Priya Tanaka,priya.tanaka0262@example.com,India,2025-11-07,Standard,617.28
+CUST0263,James Smith,james.smith0263@example.com,United Kingdom,2024-06-03,Premium,6341.78
+CUST0264,Sofia Tanaka,sofia.tanaka0264@example.com,India,2025-02-13,Premium,5005.63
+CUST0265,Wei Costa,wei.costa0265@example.com,Australia,2025-10-04,Premium,3521.33
+CUST0266,Amara Khan,amara.khan0266@example.com,United States,2023-08-13,Basic,2690.19
+CUST0267,Noah Garcia,noah.garcia0267@example.com,Germany,2022-11-13,Basic,4124.50
+CUST0268,Elena Garcia,elena.garcia0268@example.com,Australia,2025-02-13,Standard,1020.78
+CUST0269,Omar Hassan,omar.hassan0269@example.com,Germany,2024-05-28,Basic,8284.92
+CUST0270,Mia Nguyen,mia.nguyen0270@example.com,United States,2025-06-01,Basic,7058.94
+CUST0271,Lucas Hassan,lucas.hassan0271@example.com,United States,2023-01-05,Standard,5987.80
+CUST0272,Hana Kim,hana.kim0272@example.com,Australia,2023-12-20,Premium,1582.88
+CUST0273,Ethan Chen,ethan.chen0273@example.com,France,2022-05-23,Premium,6311.19
+CUST0274,Zara Sharma,zara.sharma0274@example.com,United Kingdom,2024-12-22,Premium,3228.84
+CUST0275,Leo Muller,leo.muller0275@example.com,Australia,2022-11-19,Standard,2683.34
+CUST0276,Anika Silva,anika.silva0276@example.com,United Kingdom,2022-04-18,Premium,1380.11
+CUST0277,Kenji Nguyen,kenji.nguyen0277@example.com,United States,2025-10-12,Premium,2349.27
+CUST0278,Isla Khan,isla.khan0278@example.com,Japan,2025-05-28,Standard,3549.85
+CUST0279,Rahul Johnson,rahul.johnson0279@example.com,United Kingdom,2023-12-08,Standard,987.02
+CUST0280,Chloe Singh,chloe.singh0280@example.com,Japan,2024-12-15,Basic,2656.14
+CUST0281,Aarav Rossi,aarav.rossi0281@example.com,France,2025-05-12,Premium,114.96
+CUST0282,Priya Kim,priya.kim0282@example.com,Germany,2022-10-09,Standard,2495.83
+CUST0283,James Garcia,james.garcia0283@example.com,United States,2024-10-15,Basic,3689.03
+CUST0284,Sofia Chen,sofia.chen0284@example.com,France,2024-12-26,Basic,1994.44
+CUST0285,Wei Costa,wei.costa0285@example.com,Australia,2022-05-28,Standard,7331.91
+CUST0286,Amara Patel,amara.patel0286@example.com,France,2022-02-08,Standard,7833.82
+CUST0287,Noah Silva,noah.silva0287@example.com,France,2025-03-20,Standard,6045.27
+CUST0288,Elena Khan,elena.khan0288@example.com,Canada,2022-08-24,Standard,226.24
+CUST0289,Omar Silva,omar.silva0289@example.com,India,2025-06-19,Standard,7080.62
+CUST0290,Mia Tanaka,mia.tanaka0290@example.com,United Kingdom,2024-06-13,Premium,2106.02
+CUST0291,Lucas Singh,lucas.singh0291@example.com,France,2024-12-09,Premium,3394.23
+CUST0292,Hana Kim,hana.kim0292@example.com,Australia,2023-03-30,Standard,6633.55
+CUST0293,Ethan Smith,ethan.smith0293@example.com,United Kingdom,2024-12-22,Basic,1688.49
+CUST0294,Zara Tanaka,zara.tanaka0294@example.com,Australia,2025-08-14,Premium,2046.47
+CUST0295,Leo Chen,leo.chen0295@example.com,Canada,2023-02-09,Premium,5140.27
+CUST0296,Anika Smith,anika.smith0296@example.com,India,2025-07-10,Standard,3970.40
+CUST0297,Kenji Singh,kenji.singh0297@example.com,Japan,2025-10-26,Basic,5483.28
+CUST0298,Isla Nguyen,isla.nguyen0298@example.com,Australia,2025-07-08,Standard,1325.59
+CUST0299,Rahul Smith,rahul.smith0299@example.com,Japan,2024-06-24,Basic,2608.83
+CUST0300,Chloe Hassan,chloe.hassan0300@example.com,United States,2023-12-22,Basic,676.91
+CUST0301,Aarav Muller,aarav.muller0301@example.com,Japan,2022-03-19,Premium,3165.83
+CUST0302,Priya Kim,priya.kim0302@example.com,United Kingdom,2025-08-13,Premium,5246.82
+CUST0303,James Andersen,james.andersen0303@example.com,France,2024-08-05,Basic,4733.97
+CUST0304,Sofia Patel,sofia.patel0304@example.com,Japan,2025-03-16,Basic,1640.62
+CUST0305,Wei Nguyen,wei.nguyen0305@example.com,Japan,2024-10-23,Premium,8142.75
+CUST0306,Amara Muller,amara.muller0306@example.com,United Kingdom,2023-12-05,Basic,762.58
+CUST0307,Noah Nkosi,noah.nkosi0307@example.com,United States,2023-05-23,Basic,3749.06
+CUST0308,Elena Muller,elena.muller0308@example.com,India,2024-01-16,Standard,7806.57
+CUST0309,Omar Brown,omar.brown0309@example.com,France,2023-11-24,Basic,5102.14
+CUST0310,Mia Silva,mia.silva0310@example.com,United Kingdom,2023-11-07,Premium,4764.79
+CUST0311,Lucas Brown,lucas.brown0311@example.com,Canada,2023-06-01,Basic,7245.73
+CUST0312,Hana Nguyen,hana.nguyen0312@example.com,India,2023-11-14,Premium,4974.15
+CUST0313,Ethan Chen,ethan.chen0313@example.com,Australia,2023-09-28,Basic,5952.16
+CUST0314,Zara Brown,zara.brown0314@example.com,India,2025-05-03,Basic,7976.12
+CUST0315,Leo Kim,leo.kim0315@example.com,France,2025-08-10,Standard,6921.41
+CUST0316,Anika Andersen,anika.andersen0316@example.com,United Kingdom,2025-08-16,Basic,3627.78
+CUST0317,Kenji Tanaka,kenji.tanaka0317@example.com,United States,2024-01-13,Standard,1573.22
+CUST0318,Isla Johnson,isla.johnson0318@example.com,Australia,2024-09-22,Premium,1964.29
+CUST0319,Rahul Chen,rahul.chen0319@example.com,India,2022-06-08,Standard,7185.42
+CUST0320,Chloe Garcia,chloe.garcia0320@example.com,United States,2025-09-17,Standard,7455.52
+CUST0321,Aarav Nguyen,aarav.nguyen0321@example.com,India,2025-05-08,Standard,1353.44
+CUST0322,Priya Nkosi,priya.nkosi0322@example.com,India,2024-06-15,Premium,3521.76
+CUST0323,James Rossi,james.rossi0323@example.com,Japan,2025-06-04,Standard,6407.71
+CUST0324,Sofia Muller,sofia.muller0324@example.com,Germany,2024-12-29,Premium,2665.00
+CUST0325,Wei Dubois,wei.dubois0325@example.com,Germany,2024-01-24,Basic,8053.25
+CUST0326,Amara Muller,amara.muller0326@example.com,Japan,2023-08-01,Standard,4299.56
+CUST0327,Noah Khan,noah.khan0327@example.com,India,2023-02-13,Basic,1219.47
+CUST0328,Elena Hassan,elena.hassan0328@example.com,United States,2025-08-06,Standard,7436.29
+CUST0329,Omar Costa,omar.costa0329@example.com,United Kingdom,2025-12-27,Basic,7242.35
+CUST0330,Mia Kim,mia.kim0330@example.com,United Kingdom,2022-11-25,Standard,3846.75
+CUST0331,Lucas Andersen,lucas.andersen0331@example.com,India,2024-06-14,Premium,8047.19
+CUST0332,Hana Rossi,hana.rossi0332@example.com,Japan,2023-12-17,Premium,3555.88
+CUST0333,Ethan Brown,ethan.brown0333@example.com,Australia,2023-04-28,Standard,8453.74
+CUST0334,Zara Tanaka,zara.tanaka0334@example.com,Germany,2022-02-27,Standard,7915.48
+CUST0335,Leo Silva,leo.silva0335@example.com,India,2022-10-09,Premium,2474.13
+CUST0336,Anika Dubois,anika.dubois0336@example.com,India,2025-12-15,Standard,3840.68
+CUST0337,Kenji Sharma,kenji.sharma0337@example.com,United Kingdom,2022-02-08,Standard,1872.28
+CUST0338,Isla Chen,isla.chen0338@example.com,France,2022-08-16,Standard,2058.06
+CUST0339,Rahul Garcia,rahul.garcia0339@example.com,United States,2023-05-04,Standard,5449.14
+CUST0340,Chloe Nguyen,chloe.nguyen0340@example.com,Japan,2022-05-09,Premium,7120.01
+CUST0341,Aarav Dubois,aarav.dubois0341@example.com,United States,2025-07-18,Basic,4909.15
+CUST0342,Priya Chen,priya.chen0342@example.com,Canada,2024-05-29,Premium,5245.14
+CUST0343,James Rossi,james.rossi0343@example.com,France,2023-01-19,Basic,5696.42
+CUST0344,Sofia Andersen,sofia.andersen0344@example.com,Australia,2022-05-19,Basic,4647.49
+CUST0345,Wei Andersen,wei.andersen0345@example.com,United States,2024-03-10,Standard,417.87
+CUST0346,Amara Brown,amara.brown0346@example.com,Australia,2023-06-04,Basic,187.25
+CUST0347,Noah Smith,noah.smith0347@example.com,Australia,2023-05-09,Basic,5602.53
+CUST0348,Elena Garcia,elena.garcia0348@example.com,Australia,2022-10-01,Premium,3026.93
+CUST0349,Omar Silva,omar.silva0349@example.com,India,2025-11-03,Standard,8337.92
+CUST0350,Mia Dubois,mia.dubois0350@example.com,India,2022-10-04,Premium,6100.58
+CUST0351,Lucas Muller,lucas.muller0351@example.com,United States,2023-08-24,Premium,420.16
+CUST0352,Hana Johnson,hana.johnson0352@example.com,United States,2023-10-09,Standard,4404.99
+CUST0353,Ethan Costa,ethan.costa0353@example.com,Japan,2023-06-03,Premium,6415.31
+CUST0354,Zara Johnson,zara.johnson0354@example.com,Canada,2024-01-02,Premium,7366.00
+CUST0355,Leo Silva,leo.silva0355@example.com,Canada,2022-09-12,Standard,3742.24
+CUST0356,Anika Brown,anika.brown0356@example.com,Japan,2024-03-02,Standard,8277.96
+CUST0357,Kenji Dubois,kenji.dubois0357@example.com,Japan,2024-01-23,Basic,2303.79
+CUST0358,Isla Smith,isla.smith0358@example.com,France,2022-06-11,Standard,5140.73
+CUST0359,Rahul Nkosi,rahul.nkosi0359@example.com,Canada,2023-10-20,Premium,726.58
+CUST0360,Chloe Kim,chloe.kim0360@example.com,Canada,2024-07-02,Basic,6114.25
+CUST0361,Aarav Nkosi,aarav.nkosi0361@example.com,Japan,2023-12-21,Standard,407.90
+CUST0362,Priya Tanaka,priya.tanaka0362@example.com,France,2023-07-17,Basic,8331.23
+CUST0363,James Patel,james.patel0363@example.com,United Kingdom,2025-10-06,Basic,3482.48
+CUST0364,Sofia Andersen,sofia.andersen0364@example.com,India,2022-03-05,Premium,7221.26
+CUST0365,Wei Muller,wei.muller0365@example.com,United States,2022-09-16,Premium,2044.16
+CUST0366,Amara Tanaka,amara.tanaka0366@example.com,Australia,2024-02-24,Basic,323.66
+CUST0367,Noah Chen,noah.chen0367@example.com,Japan,2024-01-30,Standard,3801.29
+CUST0368,Elena Smith,elena.smith0368@example.com,India,2024-12-20,Standard,3413.39
+CUST0369,Omar Hassan,omar.hassan0369@example.com,Germany,2022-08-21,Premium,6266.45
+CUST0370,Mia Dubois,mia.dubois0370@example.com,France,2025-02-24,Premium,2262.01
+CUST0371,Lucas Hassan,lucas.hassan0371@example.com,Japan,2023-03-16,Basic,2463.12
+CUST0372,Hana Dubois,hana.dubois0372@example.com,Germany,2022-09-09,Premium,7256.38
+CUST0373,Ethan Muller,ethan.muller0373@example.com,India,2025-12-31,Standard,8476.87
+CUST0374,Zara Silva,zara.silva0374@example.com,Australia,2025-12-24,Premium,4697.48
+CUST0375,Leo Kim,leo.kim0375@example.com,Canada,2022-11-19,Basic,6045.81
+CUST0376,Anika Nkosi,anika.nkosi0376@example.com,Australia,2024-11-07,Premium,1075.51
+CUST0377,Kenji Johnson,kenji.johnson0377@example.com,India,2023-04-30,Standard,272.10
+CUST0378,Isla Costa,isla.costa0378@example.com,Australia,2024-08-15,Basic,1146.57
+CUST0379,Rahul Smith,rahul.smith0379@example.com,United Kingdom,2023-09-26,Standard,8496.58
+CUST0380,Chloe Dubois,chloe.dubois0380@example.com,France,2024-04-18,Basic,673.19
+CUST0381,Aarav Silva,aarav.silva0381@example.com,United Kingdom,2024-07-10,Standard,5796.92
+CUST0382,Priya Tanaka,priya.tanaka0382@example.com,India,2025-02-03,Basic,5016.79
+CUST0383,James Chen,james.chen0383@example.com,France,2024-10-26,Premium,7075.25
+CUST0384,Sofia Andersen,sofia.andersen0384@example.com,India,2023-09-15,Premium,1418.62
+CUST0385,Wei Rossi,wei.rossi0385@example.com,Australia,2024-11-28,Standard,7198.14
+CUST0386,Amara Hassan,amara.hassan0386@example.com,Germany,2025-07-24,Basic,2369.11
+CUST0387,Noah Kim,noah.kim0387@example.com,United Kingdom,2024-10-26,Basic,1474.97
+CUST0388,Elena Singh,elena.singh0388@example.com,India,2022-12-17,Basic,5326.85
+CUST0389,Omar Nguyen,omar.nguyen0389@example.com,Australia,2025-02-28,Premium,7023.25
+CUST0390,Mia Sharma,mia.sharma0390@example.com,United Kingdom,2022-04-04,Basic,6565.14
+CUST0391,Lucas Hassan,lucas.hassan0391@example.com,Germany,2025-03-17,Standard,5273.02
+CUST0392,Hana Sharma,hana.sharma0392@example.com,Japan,2025-07-08,Basic,2497.73
+CUST0393,Ethan Kim,ethan.kim0393@example.com,Japan,2023-05-17,Basic,3481.48
+CUST0394,Zara Muller,zara.muller0394@example.com,United Kingdom,2025-11-11,Premium,1385.78
+CUST0395,Leo Khan,leo.khan0395@example.com,Japan,2024-08-09,Premium,2924.63
+CUST0396,Anika Chen,anika.chen0396@example.com,Australia,2023-10-16,Basic,8398.80
+CUST0397,Kenji Tanaka,kenji.tanaka0397@example.com,France,2022-09-25,Standard,4401.58
+CUST0398,Isla Garcia,isla.garcia0398@example.com,Australia,2023-05-11,Standard,1085.31
+CUST0399,Rahul Muller,rahul.muller0399@example.com,Germany,2022-10-16,Premium,477.61
+CUST0400,Chloe Brown,chloe.brown0400@example.com,France,2023-05-24,Premium,6923.89
+CUST0401,Aarav Singh,aarav.singh0401@example.com,Australia,2023-01-24,Premium,4260.34
+CUST0402,Priya Andersen,priya.andersen0402@example.com,Japan,2024-10-18,Standard,4252.78
+CUST0403,James Smith,james.smith0403@example.com,France,2024-11-01,Standard,8218.50
+CUST0404,Sofia Johnson,sofia.johnson0404@example.com,Australia,2022-04-10,Premium,2427.46
+CUST0405,Wei Nguyen,wei.nguyen0405@example.com,Japan,2023-08-09,Basic,119.10
+CUST0406,Amara Garcia,amara.garcia0406@example.com,France,2022-10-02,Standard,6197.44
+CUST0407,Noah Brown,noah.brown0407@example.com,Australia,2022-04-03,Standard,482.28
+CUST0408,Elena Costa,elena.costa0408@example.com,Germany,2024-01-13,Basic,2488.68
+CUST0409,Omar Brown,omar.brown0409@example.com,Japan,2025-01-31,Standard,7023.88
+CUST0410,Mia Nguyen,mia.nguyen0410@example.com,United Kingdom,2022-09-21,Premium,3378.49
+CUST0411,Lucas Silva,lucas.silva0411@example.com,Australia,2022-10-23,Premium,5140.81
+CUST0412,Hana Brown,hana.brown0412@example.com,United States,2022-04-03,Premium,1207.96
+CUST0413,Ethan Silva,ethan.silva0413@example.com,Japan,2024-11-29,Standard,1308.55
+CUST0414,Zara Andersen,zara.andersen0414@example.com,India,2023-11-03,Basic,2741.58
+CUST0415,Leo Brown,leo.brown0415@example.com,Canada,2025-04-30,Standard,4336.81
+CUST0416,Anika Andersen,anika.andersen0416@example.com,Japan,2025-12-22,Basic,2583.23
+CUST0417,Kenji Sharma,kenji.sharma0417@example.com,Australia,2023-11-10,Basic,976.16
+CUST0418,Isla Khan,isla.khan0418@example.com,Canada,2025-11-10,Basic,275.17
+CUST0419,Rahul Dubois,rahul.dubois0419@example.com,Canada,2025-09-04,Basic,4931.01
+CUST0420,Chloe Patel,chloe.patel0420@example.com,Japan,2022-12-16,Basic,5365.26
+CUST0421,Aarav Nguyen,aarav.nguyen0421@example.com,France,2022-10-30,Basic,2096.56
+CUST0422,Priya Singh,priya.singh0422@example.com,United Kingdom,2023-01-26,Premium,3776.78
+CUST0423,James Khan,james.khan0423@example.com,India,2024-04-25,Basic,1772.88
+CUST0424,Sofia Andersen,sofia.andersen0424@example.com,Japan,2022-05-08,Basic,1216.80
+CUST0425,Wei Johnson,wei.johnson0425@example.com,Australia,2025-09-18,Standard,4490.28
+CUST0426,Amara Silva,amara.silva0426@example.com,India,2024-07-30,Basic,2942.66
+CUST0427,Noah Tanaka,noah.tanaka0427@example.com,Canada,2025-06-03,Standard,1674.63
+CUST0428,Elena Rossi,elena.rossi0428@example.com,Canada,2025-02-16,Standard,1950.13
+CUST0429,Omar Kim,omar.kim0429@example.com,Canada,2025-12-14,Premium,5882.53
+CUST0430,Mia Dubois,mia.dubois0430@example.com,Australia,2024-09-09,Standard,4786.12
+CUST0431,Lucas Hassan,lucas.hassan0431@example.com,Canada,2022-09-07,Basic,5767.46
+CUST0432,Hana Brown,hana.brown0432@example.com,France,2023-12-08,Premium,2504.32
+CUST0433,Ethan Kim,ethan.kim0433@example.com,United Kingdom,2023-12-11,Standard,5592.96
+CUST0434,Zara Dubois,zara.dubois0434@example.com,Germany,2023-02-18,Basic,2341.07
+CUST0435,Leo Costa,leo.costa0435@example.com,Canada,2022-10-09,Premium,5252.47
+CUST0436,Anika Singh,anika.singh0436@example.com,Germany,2023-05-12,Premium,5710.10
+CUST0437,Kenji Andersen,kenji.andersen0437@example.com,Germany,2025-07-30,Premium,493.55
+CUST0438,Isla Khan,isla.khan0438@example.com,Australia,2024-08-25,Premium,5806.07
+CUST0439,Rahul Chen,rahul.chen0439@example.com,United States,2025-02-01,Premium,3488.37
+CUST0440,Chloe Dubois,chloe.dubois0440@example.com,Japan,2025-08-25,Premium,6437.45
+CUST0441,Aarav Kim,aarav.kim0441@example.com,Australia,2023-08-08,Basic,549.92
+CUST0442,Priya Smith,priya.smith0442@example.com,Germany,2024-12-31,Basic,6160.34
+CUST0443,James Patel,james.patel0443@example.com,India,2024-05-05,Premium,7941.65
+CUST0444,Sofia Patel,sofia.patel0444@example.com,France,2024-10-11,Premium,7964.34
+CUST0445,Wei Kim,wei.kim0445@example.com,United States,2022-01-19,Standard,4849.28
+CUST0446,Amara Garcia,amara.garcia0446@example.com,Australia,2023-08-06,Standard,8407.89
+CUST0447,Noah Costa,noah.costa0447@example.com,Japan,2022-10-02,Basic,4004.78
+CUST0448,Elena Johnson,elena.johnson0448@example.com,United Kingdom,2023-11-09,Premium,6227.96
+CUST0449,Omar Hassan,omar.hassan0449@example.com,India,2022-01-29,Basic,2898.60
+CUST0450,Mia Kim,mia.kim0450@example.com,Germany,2022-12-26,Basic,7284.44
+CUST0451,Lucas Brown,lucas.brown0451@example.com,France,2024-11-21,Standard,782.93
+CUST0452,Hana Garcia,hana.garcia0452@example.com,India,2022-10-15,Standard,2784.43
+CUST0453,Ethan Rossi,ethan.rossi0453@example.com,United States,2023-06-19,Standard,2040.15
+CUST0454,Zara Hassan,zara.hassan0454@example.com,Australia,2023-09-11,Basic,6158.36
+CUST0455,Leo Sharma,leo.sharma0455@example.com,Canada,2025-08-31,Standard,5903.89
+CUST0456,Anika Patel,anika.patel0456@example.com,United Kingdom,2024-08-11,Standard,1399.61
+CUST0457,Kenji Andersen,kenji.andersen0457@example.com,Canada,2025-11-14,Premium,5447.11
+CUST0458,Isla Kim,isla.kim0458@example.com,Australia,2025-06-12,Premium,1901.64
+CUST0459,Rahul Chen,rahul.chen0459@example.com,Japan,2022-11-10,Standard,6368.36
+CUST0460,Chloe Nguyen,chloe.nguyen0460@example.com,Australia,2024-05-01,Basic,4691.03
+CUST0461,Aarav Dubois,aarav.dubois0461@example.com,Germany,2023-05-22,Basic,6427.55
+CUST0462,Priya Smith,priya.smith0462@example.com,Japan,2024-12-17,Basic,3107.08
+CUST0463,James Singh,james.singh0463@example.com,United Kingdom,2022-05-07,Basic,7679.40
+CUST0464,Sofia Johnson,sofia.johnson0464@example.com,India,2022-12-03,Standard,7270.41
+CUST0465,Wei Muller,wei.muller0465@example.com,United Kingdom,2025-10-25,Premium,6107.96
+CUST0466,Amara Dubois,amara.dubois0466@example.com,United Kingdom,2024-11-11,Standard,6883.45
+CUST0467,Noah Muller,noah.muller0467@example.com,India,2024-11-17,Standard,3909.95
+CUST0468,Elena Patel,elena.patel0468@example.com,Japan,2025-10-09,Standard,6161.72
+CUST0469,Omar Brown,omar.brown0469@example.com,Canada,2022-01-07,Basic,1891.27
+CUST0470,Mia Smith,mia.smith0470@example.com,United States,2024-05-17,Standard,5968.25
+CUST0471,Lucas Costa,lucas.costa0471@example.com,United States,2022-05-22,Standard,318.16
+CUST0472,Hana Khan,hana.khan0472@example.com,India,2022-10-05,Basic,8316.92
+CUST0473,Ethan Khan,ethan.khan0473@example.com,Australia,2024-02-23,Standard,7398.29
+CUST0474,Zara Brown,zara.brown0474@example.com,France,2022-06-14,Basic,8197.02
+CUST0475,Leo Costa,leo.costa0475@example.com,India,2025-08-31,Standard,1052.45
+CUST0476,Anika Costa,anika.costa0476@example.com,France,2024-12-19,Premium,6200.40
+CUST0477,Kenji Rossi,kenji.rossi0477@example.com,United States,2022-02-16,Standard,3962.38
+CUST0478,Isla Costa,isla.costa0478@example.com,France,2024-12-25,Standard,7007.40
+CUST0479,Rahul Rossi,rahul.rossi0479@example.com,Japan,2023-12-10,Premium,2379.24
+CUST0480,Chloe Garcia,chloe.garcia0480@example.com,United States,2025-09-14,Standard,5246.10
+CUST0481,Aarav Sharma,aarav.sharma0481@example.com,Germany,2023-02-27,Premium,902.58
+CUST0482,Priya Patel,priya.patel0482@example.com,Japan,2025-05-09,Basic,5992.77
+CUST0483,James Patel,james.patel0483@example.com,Germany,2022-04-01,Standard,3759.24
+CUST0484,Sofia Costa,sofia.costa0484@example.com,Germany,2022-04-26,Premium,4307.92
+CUST0485,Wei Kim,wei.kim0485@example.com,Germany,2025-03-25,Standard,4929.66
+CUST0486,Amara Silva,amara.silva0486@example.com,Germany,2023-09-11,Premium,8379.13
+CUST0487,Noah Andersen,noah.andersen0487@example.com,Germany,2024-04-26,Standard,2375.05
+CUST0488,Elena Costa,elena.costa0488@example.com,India,2025-07-06,Basic,3659.84
+CUST0489,Omar Dubois,omar.dubois0489@example.com,United States,2023-12-07,Basic,5722.84
+CUST0490,Mia Andersen,mia.andersen0490@example.com,Australia,2025-11-27,Standard,3499.79
+CUST0491,Lucas Kim,lucas.kim0491@example.com,France,2023-01-12,Basic,4051.23
+CUST0492,Hana Rossi,hana.rossi0492@example.com,Canada,2025-12-20,Premium,6858.81
+CUST0493,Ethan Patel,ethan.patel0493@example.com,France,2024-05-03,Basic,4528.43
+CUST0494,Zara Brown,zara.brown0494@example.com,Germany,2023-06-07,Premium,2840.72
+CUST0495,Leo Smith,leo.smith0495@example.com,Japan,2024-01-30,Premium,4576.12
+CUST0496,Anika Johnson,anika.johnson0496@example.com,United States,2023-07-04,Standard,5742.53
+CUST0497,Kenji Nguyen,kenji.nguyen0497@example.com,United States,2022-05-30,Premium,6849.30
+CUST0498,Isla Singh,isla.singh0498@example.com,Germany,2024-09-08,Premium,7397.05
+CUST0499,Rahul Silva,rahul.silva0499@example.com,Canada,2022-02-01,Premium,7969.00
+CUST0500,Chloe Garcia,chloe.garcia0500@example.com,Japan,2023-05-12,Basic,5157.19
+CUST0501,Aarav Johnson,aarav.johnson0501@example.com,France,2023-05-06,Basic,2767.65
+CUST0502,Priya Kim,priya.kim0502@example.com,France,2024-08-12,Basic,5531.70
+CUST0503,James Kim,james.kim0503@example.com,Canada,2024-01-07,Basic,7509.76
+CUST0504,Sofia Muller,sofia.muller0504@example.com,United Kingdom,2024-08-19,Standard,7776.09
+CUST0505,Wei Tanaka,wei.tanaka0505@example.com,Australia,2024-04-27,Premium,4803.33
+CUST0506,Amara Rossi,amara.rossi0506@example.com,India,2022-02-03,Standard,4725.48
+CUST0507,Noah Singh,noah.singh0507@example.com,France,2023-08-28,Premium,1707.82
+CUST0508,Elena Rossi,elena.rossi0508@example.com,France,2025-03-12,Premium,4269.10
+CUST0509,Omar Silva,omar.silva0509@example.com,Canada,2024-09-27,Basic,5472.32
+CUST0510,Mia Dubois,mia.dubois0510@example.com,Japan,2022-12-11,Basic,6767.54
+CUST0511,Lucas Nkosi,lucas.nkosi0511@example.com,India,2025-01-24,Standard,1605.20
+CUST0512,Hana Costa,hana.costa0512@example.com,United States,2024-12-09,Premium,7140.13
+CUST0513,Ethan Smith,ethan.smith0513@example.com,United States,2022-01-14,Standard,1211.80
+CUST0514,Zara Rossi,zara.rossi0514@example.com,United Kingdom,2025-12-19,Premium,127.25
+CUST0515,Leo Andersen,leo.andersen0515@example.com,Japan,2024-02-04,Premium,5270.71
+CUST0516,Anika Nguyen,anika.nguyen0516@example.com,Japan,2025-09-12,Standard,182.93
+CUST0517,Kenji Costa,kenji.costa0517@example.com,France,2022-01-25,Premium,4523.58
+CUST0518,Isla Hassan,isla.hassan0518@example.com,Canada,2022-02-05,Basic,6921.18
+CUST0519,Rahul Khan,rahul.khan0519@example.com,India,2022-08-08,Premium,4481.06
+CUST0520,Chloe Rossi,chloe.rossi0520@example.com,Germany,2025-06-23,Basic,2182.93
+CUST0521,Aarav Tanaka,aarav.tanaka0521@example.com,Canada,2024-03-23,Premium,3202.29
+CUST0522,Priya Brown,priya.brown0522@example.com,Japan,2025-03-03,Premium,8417.47
+CUST0523,James Rossi,james.rossi0523@example.com,Canada,2025-11-01,Premium,5574.07
+CUST0524,Sofia Patel,sofia.patel0524@example.com,United Kingdom,2024-04-10,Standard,3237.08
+CUST0525,Wei Dubois,wei.dubois0525@example.com,United States,2025-07-28,Premium,5989.04
+CUST0526,Amara Smith,amara.smith0526@example.com,Japan,2024-06-07,Basic,6677.98
+CUST0527,Noah Singh,noah.singh0527@example.com,United Kingdom,2024-12-17,Premium,1991.53
+CUST0528,Elena Singh,elena.singh0528@example.com,Japan,2023-07-10,Premium,7859.15
+CUST0529,Omar Hassan,omar.hassan0529@example.com,United States,2023-01-03,Standard,182.31
+CUST0530,Mia Johnson,mia.johnson0530@example.com,India,2025-12-30,Standard,7898.99
+CUST0531,Lucas Kim,lucas.kim0531@example.com,India,2025-02-28,Premium,4838.58
+CUST0532,Hana Brown,hana.brown0532@example.com,Australia,2024-02-26,Basic,1232.58
+CUST0533,Ethan Smith,ethan.smith0533@example.com,Australia,2022-04-20,Premium,3743.40
+CUST0534,Zara Smith,zara.smith0534@example.com,Australia,2025-05-24,Basic,8118.55
+CUST0535,Leo Brown,leo.brown0535@example.com,Australia,2022-03-02,Basic,2359.61
+CUST0536,Anika Muller,anika.muller0536@example.com,Japan,2023-04-13,Standard,4723.17
+CUST0537,Kenji Brown,kenji.brown0537@example.com,France,2023-01-16,Basic,5000.64
+CUST0538,Isla Brown,isla.brown0538@example.com,United Kingdom,2025-06-20,Standard,6793.57
+CUST0539,Rahul Smith,rahul.smith0539@example.com,United Kingdom,2023-07-03,Premium,3261.00
+CUST0540,Chloe Chen,chloe.chen0540@example.com,France,2023-10-11,Standard,950.36
+CUST0541,Aarav Sharma,aarav.sharma0541@example.com,Canada,2024-06-29,Standard,6483.38
+CUST0542,Priya Garcia,priya.garcia0542@example.com,India,2022-06-28,Premium,3691.78
+CUST0543,James Costa,james.costa0543@example.com,France,2022-07-31,Premium,807.28
+CUST0544,Sofia Costa,sofia.costa0544@example.com,United Kingdom,2025-05-07,Basic,6678.51
+CUST0545,Wei Brown,wei.brown0545@example.com,United States,2023-08-21,Standard,3326.91
+CUST0546,Amara Smith,amara.smith0546@example.com,Germany,2025-03-17,Basic,1482.98
+CUST0547,Noah Brown,noah.brown0547@example.com,India,2022-10-12,Standard,2594.56
+CUST0548,Elena Dubois,elena.dubois0548@example.com,India,2022-05-10,Premium,3723.01
+CUST0549,Omar Khan,omar.khan0549@example.com,Canada,2024-09-18,Premium,3101.51
+CUST0550,Mia Rossi,mia.rossi0550@example.com,Japan,2025-05-01,Basic,1702.38
+CUST0551,Lucas Garcia,lucas.garcia0551@example.com,India,2023-09-16,Premium,8067.56
+CUST0552,Hana Silva,hana.silva0552@example.com,France,2023-11-06,Standard,2878.52
+CUST0553,Ethan Nguyen,ethan.nguyen0553@example.com,India,2023-09-08,Standard,5147.14
+CUST0554,Zara Johnson,zara.johnson0554@example.com,Japan,2023-10-06,Premium,8200.66
+CUST0555,Leo Silva,leo.silva0555@example.com,Canada,2025-11-24,Basic,4199.01
+CUST0556,Anika Singh,anika.singh0556@example.com,Germany,2023-10-30,Standard,2418.54
+CUST0557,Kenji Brown,kenji.brown0557@example.com,Australia,2022-08-22,Basic,1738.31
+CUST0558,Isla Costa,isla.costa0558@example.com,India,2025-10-28,Basic,277.44
+CUST0559,Rahul Muller,rahul.muller0559@example.com,Germany,2024-06-16,Standard,7074.33
+CUST0560,Chloe Smith,chloe.smith0560@example.com,France,2025-10-10,Standard,1226.06
+CUST0561,Aarav Kim,aarav.kim0561@example.com,Germany,2023-06-02,Basic,1352.51
+CUST0562,Priya Khan,priya.khan0562@example.com,France,2022-06-01,Standard,8421.42
+CUST0563,James Dubois,james.dubois0563@example.com,France,2024-12-30,Basic,7853.54
+CUST0564,Sofia Khan,sofia.khan0564@example.com,United States,2024-01-07,Basic,7616.99
+CUST0565,Wei Costa,wei.costa0565@example.com,United Kingdom,2022-08-12,Premium,5606.73
+CUST0566,Amara Tanaka,amara.tanaka0566@example.com,India,2025-08-18,Basic,424.31
+CUST0567,Noah Brown,noah.brown0567@example.com,Australia,2024-05-31,Premium,139.13
+CUST0568,Elena Hassan,elena.hassan0568@example.com,Germany,2024-11-11,Basic,4433.84
+CUST0569,Omar Singh,omar.singh0569@example.com,Germany,2024-07-01,Standard,3355.08
+CUST0570,Mia Singh,mia.singh0570@example.com,India,2023-12-08,Premium,4129.42
+CUST0571,Lucas Kim,lucas.kim0571@example.com,France,2022-06-25,Premium,7074.63
+CUST0572,Hana Chen,hana.chen0572@example.com,Australia,2023-10-01,Standard,3897.56
+CUST0573,Ethan Johnson,ethan.johnson0573@example.com,Japan,2023-12-15,Standard,874.91
+CUST0574,Zara Muller,zara.muller0574@example.com,Australia,2022-05-18,Standard,427.57
+CUST0575,Leo Garcia,leo.garcia0575@example.com,United States,2023-12-04,Basic,974.11
+CUST0576,Anika Nkosi,anika.nkosi0576@example.com,Germany,2024-11-22,Premium,4713.64
+CUST0577,Kenji Silva,kenji.silva0577@example.com,France,2024-08-04,Premium,6791.04
+CUST0578,Isla Nkosi,isla.nkosi0578@example.com,India,2025-08-04,Basic,3701.54
+CUST0579,Rahul Sharma,rahul.sharma0579@example.com,Germany,2024-07-09,Basic,3679.72
+CUST0580,Chloe Sharma,chloe.sharma0580@example.com,Germany,2023-02-26,Standard,6407.15
+CUST0581,Aarav Smith,aarav.smith0581@example.com,United Kingdom,2025-01-04,Premium,3140.95
+CUST0582,Priya Johnson,priya.johnson0582@example.com,Japan,2022-08-22,Standard,5717.43
+CUST0583,James Dubois,james.dubois0583@example.com,Australia,2025-05-07,Standard,5215.56
+CUST0584,Sofia Singh,sofia.singh0584@example.com,United Kingdom,2023-12-14,Standard,7194.63
+CUST0585,Wei Nguyen,wei.nguyen0585@example.com,India,2025-10-11,Basic,6815.18
+CUST0586,Amara Nguyen,amara.nguyen0586@example.com,United Kingdom,2025-10-08,Premium,2696.42
+CUST0587,Noah Rossi,noah.rossi0587@example.com,Canada,2022-08-28,Premium,3204.44
+CUST0588,Elena Chen,elena.chen0588@example.com,France,2024-05-06,Basic,1214.98
+CUST0589,Omar Brown,omar.brown0589@example.com,France,2023-01-16,Standard,5419.99
+CUST0590,Mia Nkosi,mia.nkosi0590@example.com,India,2024-09-29,Standard,1235.51
+CUST0591,Lucas Silva,lucas.silva0591@example.com,Japan,2025-06-22,Premium,7363.66
+CUST0592,Hana Sharma,hana.sharma0592@example.com,Japan,2022-10-07,Premium,6938.57
+CUST0593,Ethan Costa,ethan.costa0593@example.com,Japan,2024-04-17,Basic,4205.08
+CUST0594,Zara Muller,zara.muller0594@example.com,Japan,2022-12-09,Premium,4827.61
+CUST0595,Leo Rossi,leo.rossi0595@example.com,Canada,2022-03-08,Standard,1949.93
+CUST0596,Anika Kim,anika.kim0596@example.com,India,2024-07-25,Basic,6324.28
+CUST0597,Kenji Dubois,kenji.dubois0597@example.com,United Kingdom,2025-03-18,Premium,2313.66
+CUST0598,Isla Costa,isla.costa0598@example.com,Australia,2025-01-15,Premium,6472.03
+CUST0599,Rahul Muller,rahul.muller0599@example.com,Germany,2024-05-20,Premium,6269.10
+CUST0600,Chloe Rossi,chloe.rossi0600@example.com,Canada,2022-03-08,Standard,2270.79
+CUST0601,Aarav Smith,aarav.smith0601@example.com,Japan,2022-08-29,Premium,1823.47
+CUST0602,Priya Singh,priya.singh0602@example.com,Australia,2025-12-26,Basic,5396.91
+CUST0603,James Nkosi,james.nkosi0603@example.com,India,2023-02-28,Premium,6855.97
+CUST0604,Sofia Singh,sofia.singh0604@example.com,Australia,2024-12-26,Standard,5093.45
+CUST0605,Wei Nkosi,wei.nkosi0605@example.com,Australia,2025-12-12,Standard,2494.87
+CUST0606,Amara Hassan,amara.hassan0606@example.com,United Kingdom,2022-10-05,Standard,7813.60
+CUST0607,Noah Hassan,noah.hassan0607@example.com,India,2025-12-07,Premium,2159.77
+CUST0608,Elena Silva,elena.silva0608@example.com,Germany,2025-10-16,Standard,4185.93
+CUST0609,Omar Singh,omar.singh0609@example.com,Canada,2025-07-09,Standard,3220.21
+CUST0610,Mia Smith,mia.smith0610@example.com,United Kingdom,2024-04-05,Basic,6385.83
+CUST0611,Lucas Tanaka,lucas.tanaka0611@example.com,Japan,2024-09-26,Standard,4967.52
+CUST0612,Hana Smith,hana.smith0612@example.com,Japan,2025-07-24,Basic,5942.09
+CUST0613,Ethan Smith,ethan.smith0613@example.com,France,2023-03-23,Standard,7019.96
+CUST0614,Zara Dubois,zara.dubois0614@example.com,Canada,2023-10-24,Standard,2904.03
+CUST0615,Leo Singh,leo.singh0615@example.com,India,2025-03-05,Standard,6711.17
+CUST0616,Anika Patel,anika.patel0616@example.com,United States,2022-07-23,Basic,6673.87
+CUST0617,Kenji Muller,kenji.muller0617@example.com,United States,2022-09-12,Premium,3778.87
+CUST0618,Isla Sharma,isla.sharma0618@example.com,France,2023-02-19,Basic,7734.49
+CUST0619,Rahul Kim,rahul.kim0619@example.com,India,2023-07-16,Premium,5581.27
+CUST0620,Chloe Hassan,chloe.hassan0620@example.com,United Kingdom,2024-02-01,Basic,7687.11
+CUST0621,Aarav Nkosi,aarav.nkosi0621@example.com,United States,2024-03-22,Basic,2631.55
+CUST0622,Priya Rossi,priya.rossi0622@example.com,France,2025-09-04,Premium,5996.25
+CUST0623,James Sharma,james.sharma0623@example.com,Germany,2024-09-03,Premium,1171.31
+CUST0624,Sofia Rossi,sofia.rossi0624@example.com,Japan,2022-01-20,Premium,5927.80
+CUST0625,Wei Garcia,wei.garcia0625@example.com,France,2025-11-22,Premium,4086.57
+CUST0626,Amara Rossi,amara.rossi0626@example.com,France,2022-07-02,Basic,6860.34
+CUST0627,Noah Garcia,noah.garcia0627@example.com,Australia,2024-01-23,Standard,1208.74
+CUST0628,Elena Chen,elena.chen0628@example.com,India,2022-05-21,Basic,4809.81
+CUST0629,Omar Nguyen,omar.nguyen0629@example.com,India,2024-06-20,Standard,6154.55
+CUST0630,Mia Chen,mia.chen0630@example.com,France,2025-06-15,Basic,3788.14
+CUST0631,Lucas Johnson,lucas.johnson0631@example.com,United Kingdom,2022-07-25,Premium,6408.17
+CUST0632,Hana Singh,hana.singh0632@example.com,France,2023-12-21,Standard,2707.56
+CUST0633,Ethan Chen,ethan.chen0633@example.com,Germany,2023-07-22,Basic,761.90
+CUST0634,Zara Costa,zara.costa0634@example.com,Canada,2025-11-15,Premium,7214.69
+CUST0635,Leo Kim,leo.kim0635@example.com,Germany,2024-11-26,Basic,4355.47
+CUST0636,Anika Brown,anika.brown0636@example.com,Canada,2025-08-16,Premium,6673.12
+CUST0637,Kenji Rossi,kenji.rossi0637@example.com,Japan,2024-03-01,Premium,2087.14
+CUST0638,Isla Nguyen,isla.nguyen0638@example.com,United Kingdom,2024-12-17,Premium,8389.16
+CUST0639,Rahul Silva,rahul.silva0639@example.com,India,2024-03-03,Basic,3606.30
+CUST0640,Chloe Costa,chloe.costa0640@example.com,India,2024-08-22,Premium,191.03
+CUST0641,Aarav Smith,aarav.smith0641@example.com,United States,2023-06-21,Premium,386.54
+CUST0642,Priya Patel,priya.patel0642@example.com,France,2024-11-03,Standard,5361.42
+CUST0643,James Andersen,james.andersen0643@example.com,France,2024-05-17,Basic,3449.24
+CUST0644,Sofia Costa,sofia.costa0644@example.com,India,2023-07-23,Premium,2668.71
+CUST0645,Wei Andersen,wei.andersen0645@example.com,Germany,2022-11-15,Basic,2811.04
+CUST0646,Amara Singh,amara.singh0646@example.com,United Kingdom,2023-09-28,Basic,3746.76
+CUST0647,Noah Rossi,noah.rossi0647@example.com,United States,2023-05-16,Premium,7863.10
+CUST0648,Elena Garcia,elena.garcia0648@example.com,Japan,2025-06-07,Basic,514.99
+CUST0649,Omar Nkosi,omar.nkosi0649@example.com,United Kingdom,2022-01-26,Basic,1209.44
+CUST0650,Mia Sharma,mia.sharma0650@example.com,India,2024-10-13,Standard,4469.40
+CUST0651,Lucas Hassan,lucas.hassan0651@example.com,India,2024-02-01,Premium,6385.61
+CUST0652,Hana Hassan,hana.hassan0652@example.com,United Kingdom,2022-03-02,Standard,6870.06
+CUST0653,Ethan Hassan,ethan.hassan0653@example.com,United Kingdom,2023-06-23,Basic,8289.18
+CUST0654,Zara Smith,zara.smith0654@example.com,Japan,2024-07-21,Basic,3093.05
+CUST0655,Leo Dubois,leo.dubois0655@example.com,India,2024-01-24,Premium,2205.73
+CUST0656,Anika Garcia,anika.garcia0656@example.com,United Kingdom,2023-04-13,Basic,4349.57
+CUST0657,Kenji Patel,kenji.patel0657@example.com,United States,2023-05-16,Premium,4036.41
+CUST0658,Isla Brown,isla.brown0658@example.com,India,2023-01-02,Premium,4721.71
+CUST0659,Rahul Khan,rahul.khan0659@example.com,Germany,2023-10-22,Premium,3567.37
+CUST0660,Chloe Silva,chloe.silva0660@example.com,Canada,2022-06-09,Basic,3200.23
+CUST0661,Aarav Andersen,aarav.andersen0661@example.com,United States,2023-01-03,Premium,6846.66
+CUST0662,Priya Patel,priya.patel0662@example.com,France,2022-05-22,Standard,7367.97
+CUST0663,James Kim,james.kim0663@example.com,Australia,2022-06-26,Basic,3909.51
+CUST0664,Sofia Tanaka,sofia.tanaka0664@example.com,Germany,2023-08-21,Basic,6679.09
+CUST0665,Wei Nguyen,wei.nguyen0665@example.com,Germany,2024-08-08,Standard,5049.79
+CUST0666,Amara Dubois,amara.dubois0666@example.com,Germany,2025-01-24,Premium,1322.29
+CUST0667,Noah Khan,noah.khan0667@example.com,United States,2023-04-23,Basic,2977.28
+CUST0668,Elena Sharma,elena.sharma0668@example.com,Australia,2022-01-03,Basic,3229.52
+CUST0669,Omar Kim,omar.kim0669@example.com,United Kingdom,2023-02-25,Basic,8357.33
+CUST0670,Mia Khan,mia.khan0670@example.com,Japan,2022-05-03,Premium,6063.46
+CUST0671,Lucas Smith,lucas.smith0671@example.com,United States,2023-04-20,Basic,3540.33
+CUST0672,Hana Tanaka,hana.tanaka0672@example.com,Japan,2022-06-23,Basic,857.63
+CUST0673,Ethan Chen,ethan.chen0673@example.com,France,2022-06-03,Basic,4848.09
+CUST0674,Zara Khan,zara.khan0674@example.com,India,2023-04-30,Standard,2255.37
+CUST0675,Leo Silva,leo.silva0675@example.com,France,2025-12-06,Basic,2806.83
+CUST0676,Anika Muller,anika.muller0676@example.com,Canada,2023-04-24,Premium,8023.04
+CUST0677,Kenji Chen,kenji.chen0677@example.com,United Kingdom,2022-11-15,Premium,1438.97
+CUST0678,Isla Muller,isla.muller0678@example.com,Australia,2024-04-12,Premium,4578.56
+CUST0679,Rahul Johnson,rahul.johnson0679@example.com,Japan,2023-09-24,Standard,2289.32
+CUST0680,Chloe Garcia,chloe.garcia0680@example.com,United Kingdom,2022-11-19,Basic,2620.62
+CUST0681,Aarav Nguyen,aarav.nguyen0681@example.com,United States,2023-03-17,Standard,1303.34
+CUST0682,Priya Rossi,priya.rossi0682@example.com,Australia,2024-03-22,Basic,463.63
+CUST0683,James Kim,james.kim0683@example.com,Canada,2022-12-23,Premium,8095.22
+CUST0684,Sofia Muller,sofia.muller0684@example.com,Germany,2022-07-13,Standard,911.12
+CUST0685,Wei Chen,wei.chen0685@example.com,United Kingdom,2022-01-25,Premium,7066.65
+CUST0686,Amara Rossi,amara.rossi0686@example.com,India,2023-02-10,Standard,3195.43
+CUST0687,Noah Smith,noah.smith0687@example.com,Canada,2022-06-03,Premium,8476.01
+CUST0688,Elena Johnson,elena.johnson0688@example.com,Japan,2022-09-21,Premium,7697.91
+CUST0689,Omar Silva,omar.silva0689@example.com,United Kingdom,2022-03-29,Standard,477.89
+CUST0690,Mia Singh,mia.singh0690@example.com,France,2024-03-19,Standard,299.13
+CUST0691,Lucas Khan,lucas.khan0691@example.com,India,2023-12-26,Premium,7725.17
+CUST0692,Hana Hassan,hana.hassan0692@example.com,Canada,2024-07-02,Premium,342.79
+CUST0693,Ethan Nguyen,ethan.nguyen0693@example.com,Germany,2025-08-18,Standard,4265.63
+CUST0694,Zara Costa,zara.costa0694@example.com,Japan,2022-05-05,Premium,2414.11
+CUST0695,Leo Chen,leo.chen0695@example.com,France,2023-02-13,Basic,7525.31
+CUST0696,Anika Andersen,anika.andersen0696@example.com,Germany,2025-07-15,Basic,6766.45
+CUST0697,Kenji Brown,kenji.brown0697@example.com,Australia,2024-09-09,Basic,6653.13
+CUST0698,Isla Tanaka,isla.tanaka0698@example.com,Australia,2024-03-06,Standard,1569.44
+CUST0699,Rahul Silva,rahul.silva0699@example.com,Germany,2022-03-02,Standard,545.10
+CUST0700,Chloe Dubois,chloe.dubois0700@example.com,Australia,2025-04-11,Premium,8280.13
+CUST0701,Aarav Garcia,aarav.garcia0701@example.com,Germany,2025-09-07,Premium,2302.15
+CUST0702,Priya Patel,priya.patel0702@example.com,Germany,2025-03-25,Standard,3048.10
+CUST0703,James Nkosi,james.nkosi0703@example.com,India,2023-04-30,Basic,2737.14
+CUST0704,Sofia Tanaka,sofia.tanaka0704@example.com,United States,2025-12-11,Basic,3021.71
+CUST0705,Wei Singh,wei.singh0705@example.com,India,2025-02-27,Premium,7120.09
+CUST0706,Amara Dubois,amara.dubois0706@example.com,Canada,2022-12-26,Standard,370.79
+CUST0707,Noah Patel,noah.patel0707@example.com,Germany,2025-05-17,Premium,218.39
+CUST0708,Elena Dubois,elena.dubois0708@example.com,United States,2023-11-11,Basic,1752.37
+CUST0709,Omar Chen,omar.chen0709@example.com,Australia,2022-12-30,Standard,553.25
+CUST0710,Mia Chen,mia.chen0710@example.com,India,2022-08-16,Basic,7322.66
+CUST0711,Lucas Smith,lucas.smith0711@example.com,Australia,2025-12-13,Basic,3392.78
+CUST0712,Hana Garcia,hana.garcia0712@example.com,Australia,2023-09-11,Standard,1203.02
+CUST0713,Ethan Nkosi,ethan.nkosi0713@example.com,France,2025-08-02,Standard,5535.57
+CUST0714,Zara Nkosi,zara.nkosi0714@example.com,Australia,2023-04-03,Basic,5026.63
+CUST0715,Leo Nkosi,leo.nkosi0715@example.com,France,2023-09-21,Basic,5867.81
+CUST0716,Anika Chen,anika.chen0716@example.com,India,2022-01-04,Basic,8066.50
+CUST0717,Kenji Brown,kenji.brown0717@example.com,United States,2023-01-08,Basic,2738.93
+CUST0718,Isla Nguyen,isla.nguyen0718@example.com,Germany,2025-08-02,Basic,929.73
+CUST0719,Rahul Dubois,rahul.dubois0719@example.com,India,2023-11-10,Basic,707.47
+CUST0720,Chloe Tanaka,chloe.tanaka0720@example.com,Australia,2022-12-10,Basic,7530.96
+CUST0721,Aarav Smith,aarav.smith0721@example.com,Australia,2024-07-03,Premium,2291.05
+CUST0722,Priya Rossi,priya.rossi0722@example.com,United Kingdom,2023-12-19,Standard,6700.32
+CUST0723,James Sharma,james.sharma0723@example.com,United States,2024-03-01,Standard,6240.34
+CUST0724,Sofia Nkosi,sofia.nkosi0724@example.com,France,2024-10-06,Standard,3017.90
+CUST0725,Wei Brown,wei.brown0725@example.com,United Kingdom,2024-09-08,Basic,5550.69
+CUST0726,Amara Rossi,amara.rossi0726@example.com,India,2024-07-13,Premium,6803.19
+CUST0727,Noah Patel,noah.patel0727@example.com,Canada,2022-02-11,Standard,2256.53
+CUST0728,Elena Garcia,elena.garcia0728@example.com,United Kingdom,2023-12-02,Premium,7553.02
+CUST0729,Omar Nkosi,omar.nkosi0729@example.com,United Kingdom,2025-01-25,Premium,2905.68
+CUST0730,Mia Nguyen,mia.nguyen0730@example.com,Japan,2025-12-13,Premium,3694.68
+CUST0731,Lucas Nkosi,lucas.nkosi0731@example.com,France,2022-11-18,Premium,905.63
+CUST0732,Hana Johnson,hana.johnson0732@example.com,Germany,2024-04-18,Basic,4732.25
+CUST0733,Ethan Costa,ethan.costa0733@example.com,Canada,2025-09-14,Standard,2563.04
+CUST0734,Zara Garcia,zara.garcia0734@example.com,United States,2024-03-15,Basic,4694.65
+CUST0735,Leo Dubois,leo.dubois0735@example.com,India,2022-04-22,Standard,82.24
+CUST0736,Anika Smith,anika.smith0736@example.com,Canada,2025-09-17,Basic,5121.82
+CUST0737,Kenji Johnson,kenji.johnson0737@example.com,United Kingdom,2022-02-22,Premium,1493.53
+CUST0738,Isla Kim,isla.kim0738@example.com,United Kingdom,2024-08-27,Premium,2655.59
+CUST0739,Rahul Brown,rahul.brown0739@example.com,Japan,2024-09-28,Basic,2289.29
+CUST0740,Chloe Costa,chloe.costa0740@example.com,France,2023-01-14,Standard,7532.41
+CUST0741,Aarav Tanaka,aarav.tanaka0741@example.com,India,2024-07-01,Premium,2274.85
+CUST0742,Priya Muller,priya.muller0742@example.com,Canada,2023-04-09,Standard,4817.88
+CUST0743,James Chen,james.chen0743@example.com,United Kingdom,2022-06-25,Basic,2955.04
+CUST0744,Sofia Costa,sofia.costa0744@example.com,France,2025-04-22,Premium,4727.94
+CUST0745,Wei Brown,wei.brown0745@example.com,France,2025-01-01,Basic,7375.25
+CUST0746,Amara Dubois,amara.dubois0746@example.com,Germany,2024-09-02,Standard,717.17
+CUST0747,Noah Patel,noah.patel0747@example.com,India,2022-09-04,Standard,1510.83
+CUST0748,Elena Nkosi,elena.nkosi0748@example.com,Germany,2023-01-30,Premium,410.61
+CUST0749,Omar Smith,omar.smith0749@example.com,France,2023-02-18,Basic,1299.57
+CUST0750,Mia Nguyen,mia.nguyen0750@example.com,Canada,2023-10-17,Basic,7774.77
+CUST0751,Lucas Smith,lucas.smith0751@example.com,United Kingdom,2024-03-05,Basic,3407.65
+CUST0752,Hana Silva,hana.silva0752@example.com,Canada,2024-11-30,Standard,7800.02
+CUST0753,Ethan Sharma,ethan.sharma0753@example.com,France,2022-08-19,Standard,1314.48
+CUST0754,Zara Singh,zara.singh0754@example.com,United Kingdom,2022-08-05,Basic,6637.15
+CUST0755,Leo Kim,leo.kim0755@example.com,Australia,2024-04-21,Standard,3286.72
+CUST0756,Anika Dubois,anika.dubois0756@example.com,Japan,2022-03-18,Premium,2377.25
+CUST0757,Kenji Chen,kenji.chen0757@example.com,France,2022-03-21,Standard,7566.90
+CUST0758,Isla Silva,isla.silva0758@example.com,Germany,2022-04-11,Basic,4065.59
+CUST0759,Rahul Hassan,rahul.hassan0759@example.com,Australia,2022-02-11,Standard,6956.91
+CUST0760,Chloe Kim,chloe.kim0760@example.com,Canada,2023-07-29,Standard,7302.08
+CUST0761,Aarav Garcia,aarav.garcia0761@example.com,Germany,2022-10-03,Standard,8282.15
+CUST0762,Priya Muller,priya.muller0762@example.com,Australia,2023-07-06,Basic,3571.73
+CUST0763,James Smith,james.smith0763@example.com,Germany,2024-06-23,Premium,7768.51
+CUST0764,Sofia Khan,sofia.khan0764@example.com,Japan,2024-11-23,Standard,6987.60
+CUST0765,Wei Andersen,wei.andersen0765@example.com,India,2022-05-15,Standard,6045.86
+CUST0766,Amara Brown,amara.brown0766@example.com,India,2024-12-09,Basic,294.61
+CUST0767,Noah Johnson,noah.johnson0767@example.com,Germany,2022-04-29,Premium,329.45
+CUST0768,Elena Patel,elena.patel0768@example.com,Australia,2025-12-14,Premium,2365.11
+CUST0769,Omar Muller,omar.muller0769@example.com,France,2025-07-25,Premium,5805.92
+CUST0770,Mia Rossi,mia.rossi0770@example.com,Australia,2024-09-28,Basic,3819.57
+CUST0771,Lucas Dubois,lucas.dubois0771@example.com,Australia,2023-12-07,Premium,7128.17
+CUST0772,Hana Hassan,hana.hassan0772@example.com,United Kingdom,2023-08-07,Premium,3316.48
+CUST0773,Ethan Nkosi,ethan.nkosi0773@example.com,Germany,2023-03-30,Basic,1952.20
+CUST0774,Zara Johnson,zara.johnson0774@example.com,Canada,2025-08-27,Standard,4387.23
+CUST0775,Leo Sharma,leo.sharma0775@example.com,Japan,2022-09-28,Basic,1513.55
+CUST0776,Anika Sharma,anika.sharma0776@example.com,Germany,2023-06-01,Basic,6852.97
+CUST0777,Kenji Kim,kenji.kim0777@example.com,Canada,2024-05-17,Standard,7245.90
+CUST0778,Isla Muller,isla.muller0778@example.com,Canada,2023-03-23,Standard,2603.13
+CUST0779,Rahul Andersen,rahul.andersen0779@example.com,France,2025-04-12,Premium,112.09
+CUST0780,Chloe Tanaka,chloe.tanaka0780@example.com,Canada,2023-09-04,Basic,963.48
+CUST0781,Aarav Smith,aarav.smith0781@example.com,Australia,2023-07-21,Basic,2797.41
+CUST0782,Priya Hassan,priya.hassan0782@example.com,Canada,2025-09-05,Basic,8095.99
+CUST0783,James Kim,james.kim0783@example.com,Germany,2022-11-04,Basic,6518.26
+CUST0784,Sofia Patel,sofia.patel0784@example.com,France,2025-09-14,Standard,5802.39
+CUST0785,Wei Sharma,wei.sharma0785@example.com,Japan,2023-08-29,Standard,7713.40
+CUST0786,Amara Brown,amara.brown0786@example.com,France,2022-03-14,Basic,6033.18
+CUST0787,Noah Singh,noah.singh0787@example.com,Germany,2023-12-04,Basic,6077.97
+CUST0788,Elena Costa,elena.costa0788@example.com,Japan,2025-10-07,Standard,4336.81
+CUST0789,Omar Nkosi,omar.nkosi0789@example.com,India,2023-08-25,Premium,4028.10
+CUST0790,Mia Hassan,mia.hassan0790@example.com,India,2025-10-24,Standard,5579.97
+CUST0791,Lucas Rossi,lucas.rossi0791@example.com,Australia,2023-04-03,Basic,7413.60
+CUST0792,Hana Khan,hana.khan0792@example.com,Australia,2024-02-01,Standard,4998.07
+CUST0793,Ethan Muller,ethan.muller0793@example.com,United Kingdom,2024-08-21,Premium,7371.02
+CUST0794,Zara Singh,zara.singh0794@example.com,United Kingdom,2024-08-25,Premium,4279.03
+CUST0795,Leo Brown,leo.brown0795@example.com,Canada,2024-04-26,Premium,7408.68
+CUST0796,Anika Chen,anika.chen0796@example.com,India,2023-02-15,Standard,3507.67
+CUST0797,Kenji Singh,kenji.singh0797@example.com,Japan,2022-10-21,Standard,7337.23
+CUST0798,Isla Nkosi,isla.nkosi0798@example.com,United Kingdom,2024-09-25,Standard,5382.23
+CUST0799,Rahul Nkosi,rahul.nkosi0799@example.com,Australia,2025-07-23,Premium,89.83
+CUST0800,Chloe Hassan,chloe.hassan0800@example.com,Germany,2022-12-12,Basic,6509.89
+CUST0801,Aarav Dubois,aarav.dubois0801@example.com,United Kingdom,2022-09-23,Basic,3714.86
+CUST0802,Priya Khan,priya.khan0802@example.com,France,2024-05-28,Standard,3289.02
+CUST0803,James Patel,james.patel0803@example.com,Germany,2024-02-04,Premium,7587.45
+CUST0804,Sofia Andersen,sofia.andersen0804@example.com,Germany,2022-02-06,Basic,84.85
+CUST0805,Wei Rossi,wei.rossi0805@example.com,Germany,2025-11-21,Standard,2687.18
+CUST0806,Amara Garcia,amara.garcia0806@example.com,France,2024-10-27,Basic,2636.67
+CUST0807,Noah Smith,noah.smith0807@example.com,United States,2023-09-03,Standard,3902.58
+CUST0808,Elena Andersen,elena.andersen0808@example.com,Australia,2024-06-07,Basic,8461.74
+CUST0809,Omar Silva,omar.silva0809@example.com,Japan,2024-01-06,Premium,1443.27
+CUST0810,Mia Brown,mia.brown0810@example.com,United States,2023-04-13,Premium,6194.58
+CUST0811,Lucas Chen,lucas.chen0811@example.com,Germany,2022-02-14,Basic,4314.15
+CUST0812,Hana Garcia,hana.garcia0812@example.com,Australia,2025-12-27,Basic,6743.47
+CUST0813,Ethan Brown,ethan.brown0813@example.com,Canada,2024-12-31,Basic,460.56
+CUST0814,Zara Patel,zara.patel0814@example.com,United Kingdom,2025-08-31,Premium,457.59
+CUST0815,Leo Garcia,leo.garcia0815@example.com,France,2024-06-28,Standard,1094.38
+CUST0816,Anika Hassan,anika.hassan0816@example.com,Japan,2025-12-08,Premium,1786.43
+CUST0817,Kenji Sharma,kenji.sharma0817@example.com,Canada,2024-05-11,Basic,903.28
+CUST0818,Isla Andersen,isla.andersen0818@example.com,Canada,2025-06-29,Basic,5971.14
+CUST0819,Rahul Khan,rahul.khan0819@example.com,United Kingdom,2024-11-13,Basic,5269.55
+CUST0820,Chloe Kim,chloe.kim0820@example.com,United Kingdom,2022-08-06,Standard,1728.56
+CUST0821,Aarav Johnson,aarav.johnson0821@example.com,Canada,2024-12-07,Premium,3074.44
+CUST0822,Priya Khan,priya.khan0822@example.com,Canada,2022-11-25,Premium,4681.77
+CUST0823,James Johnson,james.johnson0823@example.com,Japan,2023-11-09,Premium,73.14
+CUST0824,Sofia Smith,sofia.smith0824@example.com,United Kingdom,2025-03-21,Basic,4225.18
+CUST0825,Wei Smith,wei.smith0825@example.com,United Kingdom,2022-07-27,Standard,5494.65
+CUST0826,Amara Muller,amara.muller0826@example.com,Canada,2023-06-25,Standard,473.18
+CUST0827,Noah Nkosi,noah.nkosi0827@example.com,United States,2023-08-19,Standard,6823.49
+CUST0828,Elena Silva,elena.silva0828@example.com,France,2022-08-26,Premium,7243.03
+CUST0829,Omar Patel,omar.patel0829@example.com,United States,2022-10-11,Basic,5518.83
+CUST0830,Mia Silva,mia.silva0830@example.com,Australia,2024-06-15,Basic,2317.21
+CUST0831,Lucas Smith,lucas.smith0831@example.com,Australia,2023-12-03,Premium,1011.88
+CUST0832,Hana Brown,hana.brown0832@example.com,Japan,2023-07-11,Standard,5879.68
+CUST0833,Ethan Dubois,ethan.dubois0833@example.com,France,2025-08-21,Premium,1005.33
+CUST0834,Zara Patel,zara.patel0834@example.com,India,2022-08-01,Standard,7749.87
+CUST0835,Leo Dubois,leo.dubois0835@example.com,Japan,2023-01-07,Basic,3258.89
+CUST0836,Anika Tanaka,anika.tanaka0836@example.com,United States,2025-11-02,Basic,8275.61
+CUST0837,Kenji Chen,kenji.chen0837@example.com,Japan,2024-09-26,Premium,7550.17
+CUST0838,Isla Muller,isla.muller0838@example.com,United States,2022-05-10,Standard,5584.53
+CUST0839,Rahul Sharma,rahul.sharma0839@example.com,Germany,2025-10-03,Standard,4436.39
+CUST0840,Chloe Nguyen,chloe.nguyen0840@example.com,United Kingdom,2024-06-05,Basic,6190.21
+CUST0841,Aarav Dubois,aarav.dubois0841@example.com,Australia,2025-09-21,Basic,5469.87
+CUST0842,Priya Chen,priya.chen0842@example.com,United States,2022-01-24,Basic,7945.44
+CUST0843,James Andersen,james.andersen0843@example.com,Japan,2024-10-12,Premium,682.61
+CUST0844,Sofia Dubois,sofia.dubois0844@example.com,Australia,2023-05-09,Standard,8247.73
+CUST0845,Wei Patel,wei.patel0845@example.com,Germany,2025-02-01,Basic,3249.49
+CUST0846,Amara Rossi,amara.rossi0846@example.com,United Kingdom,2024-07-29,Standard,6820.66
+CUST0847,Noah Muller,noah.muller0847@example.com,United Kingdom,2024-10-17,Standard,2720.72
+CUST0848,Elena Dubois,elena.dubois0848@example.com,United States,2022-07-30,Standard,3534.26
+CUST0849,Omar Costa,omar.costa0849@example.com,United States,2022-07-06,Basic,8188.80
+CUST0850,Mia Kim,mia.kim0850@example.com,Germany,2025-09-02,Basic,3904.96
+CUST0851,Lucas Silva,lucas.silva0851@example.com,Australia,2022-04-22,Premium,7184.48
+CUST0852,Hana Silva,hana.silva0852@example.com,Japan,2025-09-07,Standard,6099.47
+CUST0853,Ethan Garcia,ethan.garcia0853@example.com,United Kingdom,2025-09-11,Premium,68.56
+CUST0854,Zara Tanaka,zara.tanaka0854@example.com,Canada,2025-01-26,Basic,3209.37
+CUST0855,Leo Garcia,leo.garcia0855@example.com,United States,2022-12-03,Standard,1236.80
+CUST0856,Anika Khan,anika.khan0856@example.com,United Kingdom,2023-06-05,Basic,1705.54
+CUST0857,Kenji Garcia,kenji.garcia0857@example.com,France,2023-03-18,Standard,7017.48
+CUST0858,Isla Johnson,isla.johnson0858@example.com,Australia,2022-08-09,Standard,442.93
+CUST0859,Rahul Singh,rahul.singh0859@example.com,United Kingdom,2024-07-11,Standard,5613.96
+CUST0860,Chloe Andersen,chloe.andersen0860@example.com,India,2024-10-18,Premium,4531.58
+CUST0861,Aarav Patel,aarav.patel0861@example.com,France,2025-04-13,Standard,7860.93
+CUST0862,Priya Nkosi,priya.nkosi0862@example.com,India,2022-09-20,Premium,3323.58
+CUST0863,James Nguyen,james.nguyen0863@example.com,Australia,2024-10-29,Standard,3587.72
+CUST0864,Sofia Nguyen,sofia.nguyen0864@example.com,Germany,2023-07-15,Standard,8192.37
+CUST0865,Wei Kim,wei.kim0865@example.com,Japan,2022-10-01,Premium,3537.70
+CUST0866,Amara Andersen,amara.andersen0866@example.com,Canada,2025-12-07,Basic,7322.98
+CUST0867,Noah Costa,noah.costa0867@example.com,Germany,2023-02-16,Premium,5324.22
+CUST0868,Elena Kim,elena.kim0868@example.com,Australia,2025-10-09,Premium,8342.28
+CUST0869,Omar Nkosi,omar.nkosi0869@example.com,Australia,2025-12-25,Premium,6478.55
+CUST0870,Mia Costa,mia.costa0870@example.com,Japan,2025-04-08,Basic,8015.59
+CUST0871,Lucas Khan,lucas.khan0871@example.com,Canada,2024-05-15,Premium,4467.07
+CUST0872,Hana Sharma,hana.sharma0872@example.com,France,2022-10-25,Premium,5713.65
+CUST0873,Ethan Johnson,ethan.johnson0873@example.com,Canada,2022-11-26,Standard,5824.65
+CUST0874,Zara Chen,zara.chen0874@example.com,United States,2025-11-15,Standard,1773.81
+CUST0875,Leo Costa,leo.costa0875@example.com,United States,2024-01-05,Standard,915.96
+CUST0876,Anika Costa,anika.costa0876@example.com,Germany,2025-08-18,Basic,3336.09
+CUST0877,Kenji Andersen,kenji.andersen0877@example.com,Canada,2025-11-20,Basic,446.98
+CUST0878,Isla Brown,isla.brown0878@example.com,France,2024-05-03,Basic,2691.93
+CUST0879,Rahul Costa,rahul.costa0879@example.com,United States,2022-01-27,Basic,2173.83
+CUST0880,Chloe Nguyen,chloe.nguyen0880@example.com,Japan,2023-04-07,Basic,6004.12
+CUST0881,Aarav Tanaka,aarav.tanaka0881@example.com,Germany,2023-02-01,Standard,3842.49
+CUST0882,Priya Smith,priya.smith0882@example.com,India,2022-12-22,Basic,4392.01
+CUST0883,James Brown,james.brown0883@example.com,United States,2024-05-27,Standard,4753.26
+CUST0884,Sofia Chen,sofia.chen0884@example.com,India,2025-04-11,Standard,97.70
+CUST0885,Wei Muller,wei.muller0885@example.com,India,2022-03-23,Premium,7896.91
+CUST0886,Amara Nguyen,amara.nguyen0886@example.com,United States,2025-07-04,Basic,7174.53
+CUST0887,Noah Kim,noah.kim0887@example.com,Japan,2025-03-18,Basic,3075.82
+CUST0888,Elena Silva,elena.silva0888@example.com,Germany,2023-01-12,Basic,626.09
+CUST0889,Omar Andersen,omar.andersen0889@example.com,India,2024-05-01,Basic,4587.95
+CUST0890,Mia Smith,mia.smith0890@example.com,Australia,2023-03-30,Premium,5655.18
+CUST0891,Lucas Silva,lucas.silva0891@example.com,Australia,2023-08-25,Premium,8080.10
+CUST0892,Hana Nguyen,hana.nguyen0892@example.com,Japan,2025-02-23,Basic,124.39
+CUST0893,Ethan Tanaka,ethan.tanaka0893@example.com,Japan,2023-05-08,Basic,5235.77
+CUST0894,Zara Nguyen,zara.nguyen0894@example.com,Germany,2022-03-23,Basic,7533.83
+CUST0895,Leo Brown,leo.brown0895@example.com,United Kingdom,2024-03-01,Standard,4615.01
+CUST0896,Anika Kim,anika.kim0896@example.com,United States,2024-11-24,Standard,4395.91
+CUST0897,Kenji Andersen,kenji.andersen0897@example.com,Japan,2024-09-23,Premium,2554.87
+CUST0898,Isla Johnson,isla.johnson0898@example.com,Australia,2024-11-18,Premium,8062.39
+CUST0899,Rahul Nkosi,rahul.nkosi0899@example.com,United States,2025-07-07,Premium,1831.10
+CUST0900,Chloe Johnson,chloe.johnson0900@example.com,France,2022-08-01,Premium,4594.02
+CUST0901,Aarav Khan,aarav.khan0901@example.com,United Kingdom,2025-11-06,Premium,250.71
+CUST0902,Priya Silva,priya.silva0902@example.com,United States,2022-06-29,Premium,508.57
+CUST0903,James Hassan,james.hassan0903@example.com,United Kingdom,2025-03-23,Premium,7747.84
+CUST0904,Sofia Khan,sofia.khan0904@example.com,France,2024-07-12,Basic,3467.59
+CUST0905,Wei Silva,wei.silva0905@example.com,United States,2024-03-08,Basic,1049.68
+CUST0906,Amara Sharma,amara.sharma0906@example.com,United Kingdom,2025-04-14,Premium,5972.45
+CUST0907,Noah Smith,noah.smith0907@example.com,Australia,2024-10-26,Premium,2499.12
+CUST0908,Elena Kim,elena.kim0908@example.com,United Kingdom,2023-07-31,Standard,3272.94
+CUST0909,Omar Sharma,omar.sharma0909@example.com,Japan,2022-11-17,Basic,1907.87
+CUST0910,Mia Brown,mia.brown0910@example.com,Canada,2025-07-22,Premium,2568.58
+CUST0911,Lucas Tanaka,lucas.tanaka0911@example.com,United States,2025-02-07,Basic,1244.61
+CUST0912,Hana Patel,hana.patel0912@example.com,United States,2025-03-18,Basic,3379.99
+CUST0913,Ethan Costa,ethan.costa0913@example.com,United Kingdom,2023-09-17,Premium,6373.11
+CUST0914,Zara Tanaka,zara.tanaka0914@example.com,Germany,2024-04-25,Basic,7244.83
+CUST0915,Leo Chen,leo.chen0915@example.com,India,2023-01-12,Premium,5262.68
+CUST0916,Anika Hassan,anika.hassan0916@example.com,Germany,2022-08-23,Premium,5719.76
+CUST0917,Kenji Singh,kenji.singh0917@example.com,United States,2025-01-29,Standard,5497.50
+CUST0918,Isla Smith,isla.smith0918@example.com,Canada,2025-10-07,Premium,2168.31
+CUST0919,Rahul Johnson,rahul.johnson0919@example.com,Japan,2023-11-09,Standard,1133.42
+CUST0920,Chloe Rossi,chloe.rossi0920@example.com,United Kingdom,2023-08-07,Basic,639.89
+CUST0921,Aarav Johnson,aarav.johnson0921@example.com,Australia,2024-09-22,Standard,2824.52
+CUST0922,Priya Kim,priya.kim0922@example.com,India,2025-03-04,Basic,3129.97
+CUST0923,James Silva,james.silva0923@example.com,France,2022-12-12,Premium,2696.66
+CUST0924,Sofia Rossi,sofia.rossi0924@example.com,France,2023-07-21,Standard,1184.88
+CUST0925,Wei Silva,wei.silva0925@example.com,Japan,2024-08-05,Standard,3081.37
+CUST0926,Amara Kim,amara.kim0926@example.com,Japan,2025-02-03,Premium,1535.26
+CUST0927,Noah Nguyen,noah.nguyen0927@example.com,United Kingdom,2023-07-29,Premium,7581.46
+CUST0928,Elena Johnson,elena.johnson0928@example.com,Canada,2025-07-07,Premium,6196.74
+CUST0929,Omar Sharma,omar.sharma0929@example.com,United States,2025-04-06,Basic,3473.39
+CUST0930,Mia Singh,mia.singh0930@example.com,Germany,2022-03-17,Basic,2252.21
+CUST0931,Lucas Costa,lucas.costa0931@example.com,Japan,2025-09-01,Premium,3141.17
+CUST0932,Hana Rossi,hana.rossi0932@example.com,Canada,2022-10-02,Standard,4284.49
+CUST0933,Ethan Smith,ethan.smith0933@example.com,France,2024-01-16,Basic,139.50
+CUST0934,Zara Rossi,zara.rossi0934@example.com,India,2024-11-18,Premium,3820.56
+CUST0935,Leo Nkosi,leo.nkosi0935@example.com,India,2024-09-17,Standard,391.55
+CUST0936,Anika Dubois,anika.dubois0936@example.com,Germany,2022-05-09,Standard,3171.73
+CUST0937,Kenji Patel,kenji.patel0937@example.com,Germany,2024-11-26,Standard,3329.39
+CUST0938,Isla Muller,isla.muller0938@example.com,United States,2022-03-23,Basic,2788.40
+CUST0939,Rahul Andersen,rahul.andersen0939@example.com,Canada,2023-06-24,Basic,4649.76
+CUST0940,Chloe Nkosi,chloe.nkosi0940@example.com,France,2025-08-31,Standard,3136.76
+CUST0941,Aarav Smith,aarav.smith0941@example.com,Canada,2024-02-10,Premium,4413.34
+CUST0942,Priya Tanaka,priya.tanaka0942@example.com,Australia,2024-09-24,Standard,7546.60
+CUST0943,James Sharma,james.sharma0943@example.com,India,2024-06-19,Premium,1993.42
+CUST0944,Sofia Andersen,sofia.andersen0944@example.com,Canada,2023-03-10,Premium,1629.35
+CUST0945,Wei Tanaka,wei.tanaka0945@example.com,United Kingdom,2025-09-15,Premium,3553.49
+CUST0946,Amara Silva,amara.silva0946@example.com,United Kingdom,2024-09-13,Basic,4095.98
+CUST0947,Noah Johnson,noah.johnson0947@example.com,India,2025-08-18,Standard,239.67
+CUST0948,Elena Patel,elena.patel0948@example.com,India,2025-03-20,Basic,1411.54
+CUST0949,Omar Andersen,omar.andersen0949@example.com,United States,2025-03-18,Premium,522.46
+CUST0950,Mia Hassan,mia.hassan0950@example.com,India,2024-11-24,Standard,5114.57
+CUST0951,Lucas Singh,lucas.singh0951@example.com,United States,2025-09-17,Standard,8054.30
+CUST0952,Hana Johnson,hana.johnson0952@example.com,Japan,2025-05-27,Standard,7378.71
+CUST0953,Ethan Nkosi,ethan.nkosi0953@example.com,Germany,2024-04-21,Basic,1255.92
+CUST0954,Zara Singh,zara.singh0954@example.com,India,2025-06-30,Basic,4366.30
+CUST0955,Leo Nkosi,leo.nkosi0955@example.com,Australia,2024-07-17,Basic,5040.54
+CUST0956,Anika Rossi,anika.rossi0956@example.com,France,2024-02-29,Premium,967.42
+CUST0957,Kenji Johnson,kenji.johnson0957@example.com,France,2022-11-03,Basic,863.72
+CUST0958,Isla Dubois,isla.dubois0958@example.com,United States,2024-12-24,Basic,6407.64
+CUST0959,Rahul Smith,rahul.smith0959@example.com,Japan,2025-09-12,Premium,7671.77
+CUST0960,Chloe Costa,chloe.costa0960@example.com,United States,2025-10-21,Basic,3696.15
+CUST0961,Aarav Khan,aarav.khan0961@example.com,Australia,2022-03-30,Basic,4526.95
+CUST0962,Priya Rossi,priya.rossi0962@example.com,Japan,2024-02-20,Standard,5027.46
+CUST0963,James Singh,james.singh0963@example.com,United Kingdom,2024-05-21,Premium,2200.68
+CUST0964,Sofia Rossi,sofia.rossi0964@example.com,United Kingdom,2023-08-04,Basic,7458.68
+CUST0965,Wei Khan,wei.khan0965@example.com,Canada,2023-01-23,Premium,6042.31
+CUST0966,Amara Sharma,amara.sharma0966@example.com,United Kingdom,2024-11-30,Premium,3219.00
+CUST0967,Noah Johnson,noah.johnson0967@example.com,Australia,2024-04-17,Standard,950.63
+CUST0968,Elena Khan,elena.khan0968@example.com,Canada,2023-06-20,Basic,3629.10
+CUST0969,Omar Tanaka,omar.tanaka0969@example.com,Canada,2025-10-25,Standard,6429.51
+CUST0970,Mia Khan,mia.khan0970@example.com,Japan,2023-01-02,Standard,4774.34
+CUST0971,Lucas Dubois,lucas.dubois0971@example.com,Canada,2023-09-21,Basic,2959.81
+CUST0972,Hana Brown,hana.brown0972@example.com,India,2025-09-12,Premium,6369.03
+CUST0973,Ethan Muller,ethan.muller0973@example.com,India,2022-07-25,Premium,4345.50
+CUST0974,Zara Silva,zara.silva0974@example.com,United States,2022-11-26,Standard,8200.62
+CUST0975,Leo Sharma,leo.sharma0975@example.com,United Kingdom,2022-10-25,Standard,7873.53
+CUST0976,Anika Khan,anika.khan0976@example.com,United Kingdom,2022-05-12,Standard,1923.96
+CUST0977,Kenji Smith,kenji.smith0977@example.com,United States,2024-02-27,Standard,5238.01
+CUST0978,Isla Andersen,isla.andersen0978@example.com,Canada,2025-12-28,Basic,535.56
+CUST0979,Rahul Nkosi,rahul.nkosi0979@example.com,Japan,2024-06-18,Premium,1754.43
+CUST0980,Chloe Andersen,chloe.andersen0980@example.com,Canada,2023-02-03,Premium,6674.46
+CUST0981,Aarav Andersen,aarav.andersen0981@example.com,Germany,2025-06-13,Premium,5745.51
+CUST0982,Priya Tanaka,priya.tanaka0982@example.com,Germany,2025-09-03,Premium,8294.21
+CUST0983,James Smith,james.smith0983@example.com,Canada,2024-03-29,Standard,5708.64
+CUST0984,Sofia Brown,sofia.brown0984@example.com,Germany,2024-11-26,Premium,6277.02
+CUST0985,Wei Smith,wei.smith0985@example.com,United Kingdom,2025-01-30,Standard,6185.87
+CUST0986,Amara Costa,amara.costa0986@example.com,Australia,2023-12-13,Standard,1962.20
+CUST0987,Noah Johnson,noah.johnson0987@example.com,Japan,2024-04-07,Basic,89.30
+CUST0988,Elena Nkosi,elena.nkosi0988@example.com,France,2024-11-02,Premium,4770.43
+CUST0989,Omar Andersen,omar.andersen0989@example.com,Canada,2023-11-28,Premium,6834.86
+CUST0990,Mia Hassan,mia.hassan0990@example.com,Canada,2025-11-22,Standard,8213.17
+CUST0991,Lucas Singh,lucas.singh0991@example.com,Japan,2023-05-14,Standard,8172.47
+CUST0992,Hana Muller,hana.muller0992@example.com,Japan,2025-04-16,Premium,4122.65
+CUST0993,Ethan Hassan,ethan.hassan0993@example.com,United Kingdom,2024-02-23,Basic,6714.14
+CUST0994,Zara Rossi,zara.rossi0994@example.com,Germany,2023-10-09,Standard,8123.52
+CUST0995,Leo Andersen,leo.andersen0995@example.com,United States,2025-12-06,Standard,2147.78
+CUST0996,Anika Smith,anika.smith0996@example.com,France,2025-10-11,Basic,6988.08
+CUST0997,Kenji Smith,kenji.smith0997@example.com,India,2024-09-02,Standard,3037.40
+CUST0998,Isla Singh,isla.singh0998@example.com,Canada,2023-01-10,Basic,5822.26
+CUST0999,Rahul Johnson,rahul.johnson0999@example.com,Japan,2023-02-13,Premium,6264.38
+CUST1000,Chloe Hassan,chloe.hassan1000@example.com,Germany,2023-04-15,Premium,7105.25
+CUST0001,Aarav Garcia,aarav.garcia0001@example.com,United States,2023-07-18,Premium,1936.13
+CUST9001,,blank.name9001@example.com,India,2024-03-12,Standard,120.00
+CUST9002,Bad Email User,not-an-email,Canada,2024-06-01,Basic,300.00
+CUST9003,VIP Segment User,vip.user9003@example.com,Germany,2024-02-20,VIP,not-a-number
+CUST9004,Future Signup,future.signup9004@example.com,France,2099-01-15,Premium,999.00
+CUST9005,Bad Date User,bad.date9005@example.com,,31/02/2024,Standard,80.00

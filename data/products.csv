@@ -1,0 +1,207 @@
+product_id,product_name,category,unit_price
+PROD0001,Aero Headphones 001,Electronics,669.88
+PROD0002,Nimbus Lamp 002,Home,288.03
+PROD0003,Forge Jacket 003,Clothing,624.25
+PROD0004,Lumen Trainer 004,Sports,100.29
+PROD0005,Orbit Serum 005,Beauty,67.39
+PROD0006,Pulse Notebook 006,Books,764.83
+PROD0007,Ridge Speaker 007,Electronics,396.66
+PROD0008,Summit Mug 008,Home,10.26
+PROD0009,Velvet Backpack 009,Clothing,686.38
+PROD0010,Cascade Watch 010,Sports,766.59
+PROD0011,Aero Kettle 011,Beauty,679.16
+PROD0012,Nimbus Yoga Mat 012,Books,300.09
+PROD0013,Forge Headphones 013,Electronics,255.75
+PROD0014,Lumen Lamp 014,Home,719.00
+PROD0015,Orbit Jacket 015,Clothing,705.37
+PROD0016,Pulse Trainer 016,Sports,461.73
+PROD0017,Ridge Serum 017,Beauty,223.40
+PROD0018,Summit Notebook 018,Books,150.37
+PROD0019,Velvet Speaker 019,Electronics,612.58
+PROD0020,Cascade Mug 020,Home,411.34
+PROD0021,Aero Backpack 021,Clothing,321.30
+PROD0022,Nimbus Watch 022,Sports,601.37
+PROD0023,Forge Kettle 023,Beauty,106.95
+PROD0024,Lumen Yoga Mat 024,Books,422.95
+PROD0025,Orbit Headphones 025,Electronics,341.41
+PROD0026,Pulse Lamp 026,Home,752.02
+PROD0027,Ridge Jacket 027,Clothing,30.88
+PROD0028,Summit Trainer 028,Sports,281.08
+PROD0029,Velvet Serum 029,Beauty,689.01
+PROD0030,Cascade Notebook 030,Books,621.83
+PROD0031,Aero Speaker 031,Electronics,368.46
+PROD0032,Nimbus Mug 032,Home,100.68
+PROD0033,Forge Backpack 033,Clothing,416.96
+PROD0034,Lumen Watch 034,Sports,255.93
+PROD0035,Orbit Kettle 035,Beauty,11.68
+PROD0036,Pulse Yoga Mat 036,Books,540.90
+PROD0037,Ridge Headphones 037,Electronics,306.64
+PROD0038,Summit Lamp 038,Home,85.08
+PROD0039,Velvet Jacket 039,Clothing,292.46
+PROD0040,Cascade Trainer 040,Sports,690.15
+PROD0041,Aero Serum 041,Beauty,153.78
+PROD0042,Nimbus Notebook 042,Books,213.95
+PROD0043,Forge Speaker 043,Electronics,219.17
+PROD0044,Lumen Mug 044,Home,767.02
+PROD0045,Orbit Backpack 045,Clothing,277.75
+PROD0046,Pulse Watch 046,Sports,151.20
+PROD0047,Ridge Kettle 047,Beauty,342.02
+PROD0048,Summit Yoga Mat 048,Books,338.17
+PROD0049,Velvet Headphones 049,Electronics,602.99
+PROD0050,Cascade Lamp 050,Home,295.23
+PROD0051,Aero Jacket 051,Clothing,323.46
+PROD0052,Nimbus Trainer 052,Sports,363.32
+PROD0053,Forge Serum 053,Beauty,459.26
+PROD0054,Lumen Notebook 054,Books,783.51
+PROD0055,Orbit Speaker 055,Electronics,550.37
+PROD0056,Pulse Mug 056,Home,652.27
+PROD0057,Ridge Backpack 057,Clothing,578.04
+PROD0058,Summit Watch 058,Sports,644.24
+PROD0059,Velvet Kettle 059,Beauty,446.49
+PROD0060,Cascade Yoga Mat 060,Books,685.76
+PROD0061,Aero Headphones 061,Electronics,160.86
+PROD0062,Nimbus Lamp 062,Home,641.02
+PROD0063,Forge Jacket 063,Clothing,592.13
+PROD0064,Lumen Trainer 064,Sports,381.01
+PROD0065,Orbit Serum 065,Beauty,12.74
+PROD0066,Pulse Notebook 066,Books,340.10
+PROD0067,Ridge Speaker 067,Electronics,111.89
+PROD0068,Summit Mug 068,Home,715.14
+PROD0069,Velvet Backpack 069,Clothing,506.36
+PROD0070,Cascade Watch 070,Sports,429.51
+PROD0071,Aero Kettle 071,Beauty,255.99
+PROD0072,Nimbus Yoga Mat 072,Books,391.85
+PROD0073,Forge Headphones 073,Electronics,204.51
+PROD0074,Lumen Lamp 074,Home,687.50
+PROD0075,Orbit Jacket 075,Clothing,42.92
+PROD0076,Pulse Trainer 076,Sports,83.67
+PROD0077,Ridge Serum 077,Beauty,134.85
+PROD0078,Summit Notebook 078,Books,176.29
+PROD0079,Velvet Speaker 079,Electronics,207.15
+PROD0080,Cascade Mug 080,Home,671.97
+PROD0081,Aero Backpack 081,Clothing,81.55
+PROD0082,Nimbus Watch 082,Sports,596.94
+PROD0083,Forge Kettle 083,Beauty,211.51
+PROD0084,Lumen Yoga Mat 084,Books,291.43
+PROD0085,Orbit Headphones 085,Electronics,448.20
+PROD0086,Pulse Lamp 086,Home,648.95
+PROD0087,Ridge Jacket 087,Clothing,278.58
+PROD0088,Summit Trainer 088,Sports,332.34
+PROD0089,Velvet Serum 089,Beauty,284.11
+PROD0090,Cascade Notebook 090,Books,545.26
+PROD0091,Aero Speaker 091,Electronics,486.42
+PROD0092,Nimbus Mug 092,Home,463.59
+PROD0093,Forge Backpack 093,Clothing,521.63
+PROD0094,Lumen Watch 094,Sports,433.05
+PROD0095,Orbit Kettle 095,Beauty,783.59
+PROD0096,Pulse Yoga Mat 096,Books,231.25
+PROD0097,Ridge Headphones 097,Electronics,263.44
+PROD0098,Summit Lamp 098,Home,410.79
+PROD0099,Velvet Jacket 099,Clothing,620.91
+PROD0100,Cascade Trainer 100,Sports,360.30
+PROD0101,Aero Serum 101,Beauty,67.32
+PROD0102,Nimbus Notebook 102,Books,492.85
+PROD0103,Forge Speaker 103,Electronics,373.67
+PROD0104,Lumen Mug 104,Home,765.48
+PROD0105,Orbit Backpack 105,Clothing,695.25
+PROD0106,Pulse Watch 106,Sports,514.25
+PROD0107,Ridge Kettle 107,Beauty,743.20
+PROD0108,Summit Yoga Mat 108,Books,340.33
+PROD0109,Velvet Headphones 109,Electronics,491.78
+PROD0110,Cascade Lamp 110,Home,326.78
+PROD0111,Aero Jacket 111,Clothing,726.11
+PROD0112,Nimbus Trainer 112,Sports,67.88
+PROD0113,Forge Serum 113,Beauty,278.17
+PROD0114,Lumen Notebook 114,Books,254.21
+PROD0115,Orbit Speaker 115,Electronics,524.14
+PROD0116,Pulse Mug 116,Home,569.78
+PROD0117,Ridge Backpack 117,Clothing,486.27
+PROD0118,Summit Watch 118,Sports,319.38
+PROD0119,Velvet Kettle 119,Beauty,710.70
+PROD0120,Cascade Yoga Mat 120,Books,625.86
+PROD0121,Aero Headphones 121,Electronics,751.31
+PROD0122,Nimbus Lamp 122,Home,599.57
+PROD0123,Forge Jacket 123,Clothing,419.13
+PROD0124,Lumen Trainer 124,Sports,362.97
+PROD0125,Orbit Serum 125,Beauty,138.01
+PROD0126,Pulse Notebook 126,Books,684.09
+PROD0127,Ridge Speaker 127,Electronics,104.40
+PROD0128,Summit Mug 128,Home,191.52
+PROD0129,Velvet Backpack 129,Clothing,205.05
+PROD0130,Cascade Watch 130,Sports,596.37
+PROD0131,Aero Kettle 131,Beauty,601.03
+PROD0132,Nimbus Yoga Mat 132,Books,172.39
+PROD0133,Forge Headphones 133,Electronics,320.64
+PROD0134,Lumen Lamp 134,Home,80.96
+PROD0135,Orbit Jacket 135,Clothing,749.74
+PROD0136,Pulse Trainer 136,Sports,381.17
+PROD0137,Ridge Serum 137,Beauty,47.78
+PROD0138,Summit Notebook 138,Books,617.88
+PROD0139,Velvet Speaker 139,Electronics,421.56
+PROD0140,Cascade Mug 140,Home,796.82
+PROD0141,Aero Backpack 141,Clothing,87.61
+PROD0142,Nimbus Watch 142,Sports,496.38
+PROD0143,Forge Kettle 143,Beauty,72.02
+PROD0144,Lumen Yoga Mat 144,Books,745.60
+PROD0145,Orbit Headphones 145,Electronics,314.92
+PROD0146,Pulse Lamp 146,Home,187.33
+PROD0147,Ridge Jacket 147,Clothing,591.38
+PROD0148,Summit Trainer 148,Sports,357.30
+PROD0149,Velvet Serum 149,Beauty,105.49
+PROD0150,Cascade Notebook 150,Books,423.75
+PROD0151,Aero Speaker 151,Electronics,140.62
+PROD0152,Nimbus Mug 152,Home,32.94
+PROD0153,Forge Backpack 153,Clothing,288.68
+PROD0154,Lumen Watch 154,Sports,732.63
+PROD0155,Orbit Kettle 155,Beauty,692.06
+PROD0156,Pulse Yoga Mat 156,Books,376.41
+PROD0157,Ridge Headphones 157,Electronics,697.35
+PROD0158,Summit Lamp 158,Home,748.20
+PROD0159,Velvet Jacket 159,Clothing,441.08
+PROD0160,Cascade Trainer 160,Sports,112.41
+PROD0161,Aero Serum 161,Beauty,759.04
+PROD0162,Nimbus Notebook 162,Books,433.72
+PROD0163,Forge Speaker 163,Electronics,474.70
+PROD0164,Lumen Mug 164,Home,367.94
+PROD0165,Orbit Backpack 165,Clothing,600.37
+PROD0166,Pulse Watch 166,Sports,702.44
+PROD0167,Ridge Kettle 167,Beauty,350.80
+PROD0168,Summit Yoga Mat 168,Books,513.62
+PROD0169,Velvet Headphones 169,Electronics,429.35
+PROD0170,Cascade Lamp 170,Home,727.58
+PROD0171,Aero Jacket 171,Clothing,387.90
+PROD0172,Nimbus Trainer 172,Sports,185.56
+PROD0173,Forge Serum 173,Beauty,76.19
+PROD0174,Lumen Notebook 174,Books,249.75
+PROD0175,Orbit Speaker 175,Electronics,332.69
+PROD0176,Pulse Mug 176,Home,128.79
+PROD0177,Ridge Backpack 177,Clothing,13.38
+PROD0178,Summit Watch 178,Sports,421.03
+PROD0179,Velvet Kettle 179,Beauty,607.83
+PROD0180,Cascade Yoga Mat 180,Books,113.35
+PROD0181,Aero Headphones 181,Electronics,232.97
+PROD0182,Nimbus Lamp 182,Home,430.39
+PROD0183,Forge Jacket 183,Clothing,551.77
+PROD0184,Lumen Trainer 184,Sports,396.08
+PROD0185,Orbit Serum 185,Beauty,605.59
+PROD0186,Pulse Notebook 186,Books,243.18
+PROD0187,Ridge Speaker 187,Electronics,613.86
+PROD0188,Summit Mug 188,Home,639.37
+PROD0189,Velvet Backpack 189,Clothing,479.61
+PROD0190,Cascade Watch 190,Sports,638.42
+PROD0191,Aero Kettle 191,Beauty,440.82
+PROD0192,Nimbus Yoga Mat 192,Books,154.90
+PROD0193,Forge Headphones 193,Electronics,706.31
+PROD0194,Lumen Lamp 194,Home,352.49
+PROD0195,Orbit Jacket 195,Clothing,203.66
+PROD0196,Pulse Trainer 196,Sports,573.37
+PROD0197,Ridge Serum 197,Beauty,518.55
+PROD0198,Summit Notebook 198,Books,663.59
+PROD0199,Velvet Speaker 199,Electronics,180.36
+PROD0200,Cascade Mug 200,Home,67.96
+PROD0001,Aero Headphones 001,Electronics,669.88
+PROD0901,,Home,19.99
+PROD0902,Mystery Box,,29.99
+PROD0903,Negative Price Widget,Electronics,-15.00
+PROD0904,Text Price Gadget,Sports,free
+,Nameless SKU,Books,12.00
